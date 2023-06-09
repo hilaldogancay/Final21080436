@@ -56,7 +56,7 @@ Proje ödevinizde yer alan başlıkların bu metinde yer alan başlıkları kesi
 Araştırma, farklı derecelerde COVID-19 şiddetine sahip Kenyalı hastalarda doğal olarak indüklenen bağlanma ve nötralize edici anti-SARS-CoV-2 antikor seviyelerinin ve potansiyellerinin kinetiğini incelemeyi amaçlamaktadır. Bu bağlamda, hastalığın şiddeti ve yaş ile anti-SARS-CoV-2 antikor yanıtı arasında bir ilişki olup olmadığı ve bu antikorların virüsle etkileşim potansiyellerinin hastalık seyrine etkisi araştırılacaktır. Bu çalışmanın COVID-19 antikor yanıtının yaşla ve hastalığın şiddeti ile bir ilgisi varsa alınması gereken önlemlerde veya tedavi etme sürecine etkileri olabilir. Veri setimi Harvard Üniversitesi datalarından buldum.
 
 ## Literatür 
-SARS-CoV-2 enfeksiyonu geçiren çocuklar ve yetişkinler arasındaki antikor yanıtlarının farklılıklarını araştırmaktadır. Çalışma, çocuk ve yetişkinlerin COVID-19 klinik spektrumunda yer alan farklı hastalık şiddeti ve semptomlarla ilişkili olarak nasıl farklı antikor tepkileri sergilediğini incelemektedir.Bu tür çalışmalar, farklı yaş grupları arasındaki immunolojik yanıtların anlaşılmasına ve özellikle çocukların COVID-19 enfeksiyonuyla başa çıkmalarındaki farklılıkların ortaya konmasına yardımcı olabilir. Araştırma sonuçları, hastalığın etiyolojisi, immünolojik mekanizmaları ve tedavi stratejileri hakkında daha fazla bilgi sağlayabilir.
+[@weisberg2021distinct]SARS-CoV-2 enfeksiyonu geçiren çocuklar ve yetişkinler arasındaki antikor yanıtlarının farklılıklarını araştırmaktadır. Çalışma, çocuk ve yetişkinlerin COVID-19 klinik spektrumunda yer alan farklı hastalık şiddeti ve semptomlarla ilişkili olarak nasıl farklı antikor tepkileri sergilediğini incelemektedir.Bu tür çalışmalar, farklı yaş grupları arasındaki immunolojik yanıtların anlaşılmasına ve özellikle çocukların COVID-19 enfeksiyonuyla başa çıkmalarındaki farklılıkların ortaya konmasına yardımcı olabilir. Araştırma sonuçları, hastalığın etiyolojisi, immünolojik mekanizmaları ve tedavi stratejileri hakkında daha fazla bilgi sağlayabilir.[@smith1937wealth] Bu başlık altında sunulan çalışma, COVID-19 geçiren Kenyalı hastalar arasında antikor yanıtlarının zaman içindeki değişimini ve farklı hastalık derecelerine sahip hastalar arasındaki farkları araştırmaktadır. Çalışma, doğal olarak oluşan antikorların, SARS-CoV-2'ye bağlanma yeteneği ve nötralize etme kapasitesi açısından nasıl değiştiğini ve farklı hastalık şiddetleriyle ilişkili olarak nasıl farklılık gösterdiğini inceler.Bu tür çalışmalar, COVID-19'un immünolojik yanıtlarını anlamak ve hastalığın seyri, prognozu ve tedavisiyle ilgili daha fazla bilgi sağlamak için önemlidir. Araştırma sonuçları, antikor yanıtlarının hastalığın seyrindeki rolünü, hastalık şiddeti tahmininde ve potansiyel olarak aşı geliştirme çalışmalarında değerli bir bilgi kaynağı olarak kullanılabilir.    Çalışmada ikinci numunelerde dahi antikor düzeyi negatif ve kısmen düşük cut off değerlerdeki numuneler bulunmaktadır. Bu çalışma gerek antikor düzeylerinin varlığı ve takibi gerekse plazmaferezlerde donör antikor düzeyinin saptanması açısından önem taşımaktadır.[@dicletip887689]    COVID-19 geçiren hastalarda büyük oranda nötrolizan antikorların oluştuğu ve 6 ay boyunca devamlılık gösterdiği bulundu. Hastalığı semptomatik geçirenler ve daha şiddetli geçirenlerde antikor düzeyleri daha yüksek bulundu.[@keskin2022covid] COVID-19 tanılı hastalarda SARS-CoV-2’ye karşı antikor yanıtlarının karakterize edilmesive tanımlanması, salgının dinamiklerinin anlaşılması ve daha etkin mücadele stratejilerinin geliştirmesi için kritik önem taşımaktadır.[@gurel2022covid] SARSCoV-2’ye karşı humoral immün yanıtlara ilişkin bazı belirsizlikler mevcuttur. Bunlardan ilki SARS-CoV-2 enfeksiyonuna karşı oluşan B hücre bellek yanıtlarının süresi ile ilgilidir. Bir virüse yönelik uygun B hücre yanıtlarının, reenfeksiyonlara karşı koruyucu olması beklenir. Buna karşın mevcut veriler, COVID-19 enfeksiyonu sonrası antikor aracılı bağışıklığın, reenfeksiyona karşı koruyucu etkinliğinin sınırlı olduğuna işaret etmektedir.[@deneyler2020covid]
 
 # Veri 
 Bu bölümde çalışmanızda kullandığınız veri setinin kaynağını, ham veri üzerinde herhangi bir işlem yaptıysanız bu işlemleri ve veri seti ile ilgili özet istatistikleri tartışınız. Bu bölümde tüm değişkenlere ait özet istatistikleri (ortalama, standart sapma, minimum, maksimum, vb. değerleri) içeren bir tablo (Tablo \ref{tab:ozet}) olması zorunludur. Tablolarınıza gerekli göndermeleri bir önceki cümlede gösterildiği gibi yapınız. [@perkins:1991]
@@ -97,15 +97,75 @@ mydata <- read.csv("Baseline_characteristics_Binding_Antibody_data_anon.csv")
 
 
 # Yöntem ve Veri Analizi
-Bu bölümde veri setindeki bilgileri kullanarak çalışmanın amacına ulaşmak için kullanılacak yöntemleri açıklayın. Derste işlenen/işlenecek olan analiz yöntemlerinden (Hipotez testleri ve korelasyon analizi gibi) çalışmanın amacına ve veri setine uygun olanlar bu bölümde kullanılmalıdır. [@newbold:2003; @ozsoy:2010; @ozsoy:2014]
 
-Örneğin, regresyon analizi gerçekleştiriyorsanız tahmin ettiğiniz denklemi bu bölümde tartışınız. Denklemlerinizi ve matematiksel ifadeleri $LaTeX$ kullanarak yazınız.
+Ig <- read.csv("Baseline Xtics_Binding_Abs_data.csv")
+
+D0<- filter(Ig,Time ==0) 
+D7<- filter(Ig,Time ==7) 
+D14<- filter(Ig,Time ==14) 
+D28<- filter(Ig,Time ==28) 
+D180<- filter(Ig,Time ==180)
+
+varsToFactor <- c("Gender" ,"Race" , "Severity" ,"Diabetes","Hypertension",
+"HIV_Pos","COPD" ,"Renal_Disease" ,"Malignancy", "Hospital_Admission","ICU_care","Outcome")
+
+D0[varsToFactor] <- lapply(D0[varsToFactor], factor)
+
+dput(names(D0)) ## c("Study_ID", "Time", "Data_access_group", "Gender", "Age", "Severity", ## "Severity_1", "Anti_Spike.IgG..BAU.ml.", "Anti_Spike.IgG.positivity", ## "Anti_Spike.RBD.Igs..AEU.", "Anti_Spike.RBD.Igs.sero.positivity", ## "Race", "Diabetes", "Hypertension", "HIV_Pos", "COPD", "Renal_Disease", ## "Malignancy", "Hospital_Admission", "ICU_care", "Ct_spike", "Outcome" ## )
+
+vars <- c("Gender" ,"Age","Race" , "Diabetes" , "Hypertension" , "HIV_Pos" ,"COPD" ,"Renal_Disease" ,"Malignancy", "Hospital_Admission","ICU_care", "Outcome")
+
+tableOne <- CreateTableOne(vars = vars,strata = "Severity" ,data = D0,factorVars =varsToFactor )
+
+shapiro.test(D0$Age) 
+
+g <- print(tableOne, nonnormal = c("Age")) ##
+
+#write.csv(g, file = "g.csv", row.names = T)
+
+library(MASS) 
+library(scales) 
+library(reshape2)
+Ig <- read.csv("Binding_Ab_kinetics.csv") #View(Ig)
+
+spike <- Ig[,1:13]
+#View(spike)
+
+Ig <- reshape(spike, varying=c("spike.0","spike.7","spike.14", "spike.28", "spike.180"), 
+              idvar="study_id", direction="long") 
+#View(Ig)
+
+Ig$time <- as.factor(Ig$time) 
+Ig$spike <- as.numeric(Ig$spike)
+
+shapiro.test(Ig$spike)
+
+friedman.test(y=Ig$spike, groups=Ig$time, blocks=Ig$study_id)
+
+pwc <- Ig %>% pairwise_wilcox_test(spike ~ time,paired = T, p.adjust.method = "bonf") 
+pwc
+
+A <- ggplot(Ig,aes(x=time,y=spike))+ geom_boxplot(aes(group=time, fill=time))+ 
+  scale_y_log10(labels=trans_format("log10",math_format(10^.x)))+
+  geom_point(alpha=0.8, colour = "black", position = position_dodge(1))+
+  labs(y= "", x = "",title = "")+ 
+  theme_pubr(legend = "none")+ 
+  guides(fill=guide_legend(title = "Time points"))+ 
+  theme(plot.title = element_text(hjust = 0.5,face = "bold",size = 16))+
+  theme(axis.title = element_text(face="bold",size = 12,color = "black"),
+        axis.text = element_text(face="bold"))+ 
+  theme(plot.background = element_rect(colour = "NA", size = 2,fill = "NA"))+ 
+  theme(axis.line = element_line(colour = "grey50", size = 1))+
+  theme(legend.background = element_rect(fill = "lemonchiffon",colour =
+                                           "grey50",size = 1))+
+  scale_fill_brewer(palette = "Set1")+ 
+  theme(aspect.ratio = 0.8) 
+A
+
+res <- boxplot(spike~time,data = Ig)
 
 
-Bu bölümde analize ilişkin farklı tablolar ve grafiklere yer verilmelidir. Çalışmanıza uygun biçimde histogram, nokta grafiği (Şekil \@ref(fig:plot) gibi), kutu grafiği, vb. grafikleri bu bölüme ekleyiniz. Şekillerinize de gerekli göndermeleri bir önceki cümlede gösterildiği gibi yapınız.
-
-
-```{r plot, fig.align='Kenya', fig.cap='Covid-19'}
+```{r plot, fig.align='plot', fig.cap='Covid-19'}
 survey %>% 
   ggplot(aes(x = age, y = anti_spikeiggbauml)) +
   geom_point() +
@@ -116,7 +176,7 @@ survey %>%
 
 
 # Sonuç
-Bu bölümde çalışmanızın sonuçlarını özetleyiniz. Sonuçlarınızın başlangıçta belirlediğiniz araştırma sorusuna ne derece cevap verdiğini ve ileride bu çalışmanın nasıl geliştirilebileceğini tartışınız.
+Çalışmanın sonucunda iki değişken arasında doğrusal bir ilişki vardır ama böyle bir araştırma yapıp COVID-19 virüsünü iki değişkenle sınırlamak yeterli değildir daha fazla değişkene bakılarak geliştirilebilir.
 
 **Kaynakça bölümü Rmarkdown tarafından otomatik olarak oluşturulmaktadır. Taslak dosyada Kaynakça kısmında herhangi bir değişikliğe gerek yoktur.** 
 
