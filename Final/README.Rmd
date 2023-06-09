@@ -187,6 +187,10 @@ Proje reponuzda aşağıdaki klasörler ve dosyalar olmalıdır:
 
 Bu projede stil ve biçim önemli olduğundan, lütfen her şeyin iyi göründüğünden, verilerinizin ve kodunuzun doğru biçimlendirildiğinden emin olunuz.
 
+````{r}
+library(tidyverse)
+my_data <- read.csv("excel-1-final.csv")
+
 
 
 

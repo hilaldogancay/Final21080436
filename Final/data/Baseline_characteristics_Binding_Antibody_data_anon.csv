@@ -1,0 +1,1546 @@
+study_id_n,time,gender,age,severity,severity_1,anti_spikeiggbauml,anti_spikeiggpositivity,anti_spikerbdigsaeu,anti_spikerbdigsseropositivity,diabetes,hypertension,hiv_pos,copd,renal_disease,malignancy,hospital_admission,icu_care,ct_spike,outcome,data_access_group_n,race_n
+250,0,Male,57.014175,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,23.82,Recovered,1,2
+250,28,Male,57.014175,MILD,MILD,970.07001,sero-positive,33460.621,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+250,180,Male,57.014175,MILD,MILD,755.51001,sero-positive,30894.789,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+250,14,Male,57.014175,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+250,7,Male,57.014175,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+90,28,Male,32.942497,MILD,MILD,1099.37,sero-positive,15539.82,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+90,7,Male,32.942497,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+90,180,Male,32.942497,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+90,0,Male,32.942497,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+90,14,Male,32.942497,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+72,180,Female,36.518204,MILD,MILD,663.25,sero-positive,33053.648,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+72,7,Female,36.518204,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+72,28,Female,36.518204,MILD,MILD,1006.91,sero-positive,19380.381,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+72,14,Female,36.518204,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+72,0,Female,36.518204,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+48,0,Male,28.600176,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+48,28,Male,28.600176,MILD,MILD,171.28,sero-positive,777.12,sero-negative,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+48,7,Male,28.600176,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+48,180,Male,28.600176,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+48,14,Male,28.600176,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+112,0,Male,47.787315,MILD,MILD,814.97998,sero-positive,10427.69,sero-positive,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+112,7,Male,47.787315,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+112,14,Male,47.787315,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+112,180,Male,47.787315,MILD,MILD,978.77002,sero-positive,10493.42,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+112,28,Male,47.787315,MILD,MILD,1201.99,sero-positive,49955.871,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+3,7,Female,50.634739,SEVERE,SEVERE,0,No sample,0,No sample,No,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+3,0,Female,50.634739,SEVERE,SEVERE,168.60001,sero-positive,7130.2202,sero-positive,No,No,Yes,No,No,No,Yes,No,NA,Recovered,1,2
+3,180,Female,50.634739,SEVERE,SEVERE,0,No sample,0,No sample,No,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+3,14,Female,50.634739,SEVERE,SEVERE,0,No sample,0,No sample,No,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+3,28,Female,50.634739,SEVERE,SEVERE,0,No sample,0,No sample,No,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+30,180,Male,18.190655,MILD,MILD,331.14999,sero-positive,22747.801,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+30,28,Male,18.190655,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+30,0,Male,18.190655,MILD,MILD,32.630001,sero-negative,827.20001,sero-negative,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+30,14,Male,18.190655,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+30,7,Male,18.190655,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+296,14,Female,52.690907,MILD,MILD,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,4
+296,28,Female,52.690907,MILD,MILD,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,4
+296,0,Female,52.690907,MILD,MILD,47.970001,sero-negative,2522.8799,sero-positive,No,Yes,No,No,No,No,Yes,No,NA,Recovered,1,4
+296,7,Female,52.690907,MILD,MILD,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,4
+296,180,Female,52.690907,MILD,MILD,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,4
+172,0,Male,53.624531,SEVERE,SEVERE,80.440002,sero-positive,4068.45,sero-positive,Yes,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+172,180,Male,53.624531,SEVERE,SEVERE,460.25,sero-positive,30421.1,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+172,7,Male,53.624531,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+172,28,Male,53.624531,SEVERE,SEVERE,606.90997,sero-positive,11617.83,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+172,14,Male,53.624531,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+300,0,Male,34.779518,SEVERE,SEVERE,1175.51,sero-positive,126719.62,sero-positive,No,No,Yes,No,No,No,Yes,Yes,NA,Recovered,1,2
+300,7,Male,34.779518,SEVERE,SEVERE,0,No sample,0,No sample,No,No,Yes,No,No,No,Yes,Yes,,Recovered,1,2
+300,28,Male,34.779518,SEVERE,SEVERE,1162.61,sero-positive,106887.55,sero-positive,No,No,Yes,No,No,No,Yes,Yes,,Recovered,1,2
+300,14,Male,34.779518,SEVERE,SEVERE,0,No sample,0,No sample,No,No,Yes,No,No,No,Yes,Yes,,Recovered,1,2
+300,180,Male,34.779518,SEVERE,SEVERE,0,No sample,0,No sample,No,No,Yes,No,No,No,Yes,Yes,,Recovered,1,2
+62,0,Male,36.217033,MILD,MILD,44.59,sero-negative,847.57001,sero-negative,No,No,Yes,No,No,No,Yes,No,NA,Recovered,1,2
+62,180,Male,36.217033,MILD,MILD,0,No sample,0,No sample,No,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+62,28,Male,36.217033,MILD,MILD,0,No sample,0,No sample,No,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+62,7,Male,36.217033,MILD,MILD,0,No sample,0,No sample,No,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+62,14,Male,36.217033,MILD,MILD,0,No sample,0,No sample,No,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+86,28,Female,28.589226,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+86,14,Female,28.589226,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+86,0,Female,28.589226,MILD,MILD,797.33002,sero-positive,16101.82,sero-positive,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+86,180,Female,28.589226,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+86,7,Female,28.589226,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+113,0,Female,40.09391,SEVERE,SEVERE,1063.51,sero-positive,47349.922,sero-positive,No,No,No,No,No,No,Yes,No,NA,Recovered,1,4
+113,28,Female,40.09391,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,4
+113,14,Female,40.09391,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,4
+113,180,Female,40.09391,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,4
+113,7,Female,40.09391,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,4
+53,0,Female,33.834942,MILD,MILD,34.849998,sero-negative,1771.85,sero-positive,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+53,180,Female,33.834942,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+53,7,Female,33.834942,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+53,28,Female,33.834942,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+53,14,Female,33.834942,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+257,28,Male,51.557526,MILD,MILD,610,sero-positive,38896.84,sero-positive,Yes,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+257,7,Male,51.557526,MILD,MILD,0,No sample,0,No sample,Yes,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+257,14,Male,51.557526,MILD,MILD,0,No sample,0,No sample,Yes,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+257,180,Male,51.557526,MILD,MILD,320.07999,sero-positive,25002.75,sero-positive,Yes,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+257,0,Male,51.557526,MILD,MILD,54.970001,sero-negative,471.79999,sero-negative,Yes,No,Yes,No,No,No,Yes,No,23.76,Recovered,1,2
+252,180,Male,43.587479,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+252,28,Male,43.587479,MILD,MILD,769.13,sero-positive,18398.34,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+252,7,Male,43.587479,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+252,14,Male,43.587479,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+252,0,Male,43.587479,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,30.6,Recovered,1,2
+194,28,Male,34.94117,MILD,MILD,362.42001,sero-positive,4294.4902,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+194,180,Male,34.94117,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+194,14,Male,34.94117,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+194,0,Male,34.94117,MILD,MILD,36.93,sero-negative,883.20001,sero-negative,No,No,No,No,No,No,Yes,No,19.24,Recovered,1,2
+194,7,Male,34.94117,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+221,180,Male,62.588524,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+221,28,Male,62.588524,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+221,14,Male,62.588524,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+221,7,Male,62.588524,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+221,0,Male,62.588524,MILD,MILD,183.2,sero-positive,4546.6001,sero-positive,Yes,Yes,No,No,No,No,Yes,No,28.76,Recovered,1,2
+184,180,Male,51.322067,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,Yes,,Died,1,2
+184,0,Male,51.322067,SEVERE,SEVERE,1180.23,sero-positive,98212.563,sero-positive,No,Yes,No,No,No,No,Yes,Yes,5,Died,1,2
+184,14,Male,51.322067,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,Yes,,Died,1,2
+184,7,Male,51.322067,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,Yes,,Died,1,2
+184,28,Male,51.322067,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,Yes,,Died,1,2
+139,0,Female,32.397655,MILD,MILD,48.849998,sero-negative,934.04999,sero-positive,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+139,28,Female,32.397655,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+139,14,Female,32.397655,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+139,180,Female,32.397655,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+139,7,Female,32.397655,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+162,180,Male,40.403294,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+162,14,Male,40.403294,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+162,0,Male,40.403294,SEVERE,SEVERE,556.09998,sero-positive,19275.41,sero-positive,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+162,7,Male,40.403294,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+162,28,Male,40.403294,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+44,28,Male,45.389023,MILD,MILD,0,No sample,0,No sample,Yes,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+44,180,Male,45.389023,MILD,MILD,0,No sample,0,No sample,Yes,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+44,0,Male,45.389023,MILD,MILD,32.799999,sero-negative,795.67999,sero-negative,Yes,No,Yes,No,No,No,Yes,No,NA,Recovered,1,2
+44,14,Male,45.389023,MILD,MILD,0,No sample,0,No sample,Yes,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+44,7,Male,45.389023,MILD,MILD,0,No sample,0,No sample,Yes,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+109,14,Male,55.921749,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+109,28,Male,55.921749,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+109,7,Male,55.921749,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+109,180,Male,55.921749,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+109,0,Male,55.921749,MILD,MILD,522.97998,sero-positive,15450.32,sero-positive,Yes,Yes,No,No,No,No,Yes,No,29.608,Recovered,1,2
+188,180,Male,61.222309,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,3
+188,7,Male,61.222309,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,3
+188,14,Male,61.222309,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,3
+188,28,Male,61.222309,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,3
+188,0,Male,61.222309,MILD,MILD,380.95001,sero-positive,38852.629,sero-positive,Yes,Yes,No,No,No,No,Yes,No,NA,Recovered,1,3
+2,14,Male,54.358406,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+2,28,Male,54.358406,SEVERE,SEVERE,1100.64,sero-positive,75075.578,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+2,0,Male,54.358406,SEVERE,SEVERE,77.669998,sero-positive,2765.8601,sero-positive,No,Yes,No,No,No,No,Yes,No,NA,Recovered,1,2
+2,180,Male,54.358406,SEVERE,SEVERE,674.21997,sero-positive,48229.379,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+2,7,Male,54.358406,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+182,7,Male,46.69215,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+182,0,Male,46.69215,SEVERE,SEVERE,597.48999,sero-positive,17454.529,sero-positive,No,Yes,No,No,No,No,Yes,No,NA,Recovered,1,2
+182,28,Male,46.69215,SEVERE,SEVERE,1138.25,sero-positive,60006.27,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+182,14,Male,46.69215,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+182,180,Male,46.69215,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+232,28,Female,35.650288,SEVERE,SEVERE,1174.4,sero-positive,120949.22,sero-positive,No,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+232,0,Female,35.650288,SEVERE,SEVERE,894.12,sero-positive,27698.74,sero-positive,No,Yes,No,No,No,No,Yes,Yes,NA,Recovered,1,2
+232,14,Female,35.650288,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+232,180,Female,35.650288,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+232,7,Female,35.650288,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+195,180,Male,54.188541,MILD,MILD,916.5,sero-positive,63517.301,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,1
+195,14,Male,54.188541,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,1
+195,0,Male,54.188541,MILD,MILD,125.09,sero-positive,3001.3301,sero-positive,Yes,No,No,No,No,No,Yes,No,NA,Recovered,1,1
+195,7,Male,54.188541,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,1
+195,28,Male,54.188541,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,1
+77,0,Female,33.676144,MILD,MILD,54.84,sero-negative,819.89001,sero-negative,No,No,No,No,No,No,Yes,No,NA,Recovered,1,1
+77,14,Female,33.676144,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,1
+77,180,Female,33.676144,MILD,MILD,95.419998,sero-positive,7338.7402,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,1
+77,28,Female,33.676144,MILD,MILD,226.14999,sero-positive,2042.63,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,1
+77,7,Female,33.676144,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,1
+163,14,Male,42.002117,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+163,180,Male,42.002117,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+163,28,Male,42.002117,SEVERE,SEVERE,982.60999,sero-positive,16936.85,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+163,7,Male,42.002117,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+163,0,Male,42.002117,SEVERE,SEVERE,849.70001,sero-positive,12356.45,sero-positive,Yes,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+156,180,Male,57.257736,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,Yes,,Recovered,1,2
+156,7,Male,57.257736,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,Yes,,Recovered,1,2
+156,28,Male,57.257736,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,Yes,,Recovered,1,2
+156,14,Male,57.257736,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,Yes,,Recovered,1,2
+156,0,Male,57.257736,SEVERE,SEVERE,794.23999,sero-positive,5817.3901,sero-positive,Yes,No,No,No,No,No,Yes,Yes,21.73,Recovered,1,2
+17,180,Male,41.909142,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+17,14,Male,41.909142,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+17,7,Male,41.909142,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+17,28,Male,41.909142,MILD,MILD,918.78003,sero-positive,60906.281,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+17,0,Male,41.909142,MILD,MILD,264.67999,sero-positive,33876.77,sero-positive,Yes,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+79,14,Male,45.731262,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+79,7,Male,45.731262,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+79,180,Male,45.731262,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+79,28,Male,45.731262,MILD,MILD,998.5,sero-positive,40354.09,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+79,0,Male,45.731262,MILD,MILD,112.56,sero-positive,3426.3,sero-positive,No,No,No,No,No,No,Yes,No,26.93,Recovered,1,2
+85,180,Male,53.035881,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,1
+85,7,Male,53.035881,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,1
+85,0,Male,53.035881,SEVERE,SEVERE,1235.73,sero-positive,19663.84,sero-positive,Yes,No,No,No,No,No,Yes,No,NA,Recovered,1,1
+85,28,Male,53.035881,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,1
+85,14,Male,53.035881,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,1
+58,180,Male,45.273914,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+58,28,Male,45.273914,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+58,14,Male,45.273914,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+58,7,Male,45.273914,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+58,0,Male,45.273914,MILD,MILD,1112.26,sero-positive,5842.5,sero-positive,Yes,Yes,No,No,No,No,Yes,No,NA,Recovered,1,2
+233,7,Male,26.897198,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+233,28,Male,26.897198,SEVERE,SEVERE,1138.48,sero-positive,45952.039,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+233,0,Male,26.897198,SEVERE,SEVERE,128.02,sero-positive,809.51001,sero-negative,Yes,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+233,180,Male,26.897198,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+233,14,Male,26.897198,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+242,7,Male,71.451042,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+242,14,Male,71.451042,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+242,180,Male,71.451042,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+242,0,Male,71.451042,MILD,MILD,36.439999,sero-negative,688.42999,sero-negative,Yes,Yes,No,No,No,No,Yes,No,NA,Recovered,1,2
+242,28,Male,71.451042,MILD,MILD,1011.79,sero-positive,39960.609,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+116,0,Male,60.14349,SEVERE,SEVERE,245.82001,sero-positive,2016.34,sero-positive,No,No,No,No,No,No,Yes,Yes,NA,Recovered,1,2
+116,7,Male,60.14349,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,Yes,,Recovered,1,2
+116,14,Male,60.14349,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,Yes,,Recovered,1,2
+116,28,Male,60.14349,SEVERE,SEVERE,1189.09,sero-positive,101615.62,sero-positive,No,No,No,No,No,No,Yes,Yes,,Recovered,1,2
+116,180,Male,60.14349,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,Yes,,Recovered,1,2
+222,0,Male,38.100716,MILD,MILD,315.35999,sero-positive,20889.6,sero-positive,Yes,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+222,28,Male,38.100716,MILD,MILD,851.35999,sero-positive,32061.9,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+222,180,Male,38.100716,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+222,14,Male,38.100716,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+222,7,Male,38.100716,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+91,180,Male,47.363052,MILD,MILD,1052.6,sero-positive,120945.02,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+91,28,Male,47.363052,MILD,MILD,1191.21,sero-positive,193899.3,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+91,14,Male,47.363052,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+91,0,Male,47.363052,MILD,MILD,68.879997,sero-negative,1017.96,sero-positive,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+91,7,Male,47.363052,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+54,14,Male,51.387661,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,1
+54,28,Male,51.387661,SEVERE,SEVERE,926.46002,sero-positive,63583.102,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,1
+54,0,Male,51.387661,SEVERE,SEVERE,68.620003,sero-negative,4046.3101,sero-positive,No,No,No,No,No,No,Yes,No,NA,Recovered,1,1
+54,180,Male,51.387661,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,1
+54,7,Male,51.387661,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,1
+173,14,Male,43.75164,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+173,28,Male,43.75164,SEVERE,SEVERE,1093.3101,sero-positive,56051.461,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+173,0,Male,43.75164,SEVERE,SEVERE,75.529999,sero-positive,966.91998,sero-positive,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+173,180,Male,43.75164,SEVERE,SEVERE,918.78003,sero-positive,56613.941,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+173,7,Male,43.75164,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+51,28,Female,46.174686,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+51,7,Female,46.174686,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+51,14,Female,46.174686,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+51,0,Female,46.174686,MILD,MILD,42.73,sero-negative,1163.51,sero-positive,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+51,180,Female,46.174686,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+217,28,Male,53.071476,SEVERE,SEVERE,776,sero-positive,21423.18,sero-positive,No,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+217,7,Male,53.071476,SEVERE,SEVERE,0,No sample,0,No sample,No,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+217,180,Male,53.071476,SEVERE,SEVERE,514.21997,sero-positive,16765.529,sero-positive,No,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+217,14,Male,53.071476,SEVERE,SEVERE,0,No sample,0,No sample,No,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+217,0,Male,53.071476,SEVERE,SEVERE,66.080002,sero-negative,813.95001,sero-negative,No,No,Yes,No,No,No,Yes,No,NA,Recovered,1,2
+103,7,Male,44.271843,MILD,MILD,0,No sample,0,No sample,No,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+103,28,Male,44.271843,MILD,MILD,0,No sample,0,No sample,No,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+103,14,Male,44.271843,MILD,MILD,0,No sample,0,No sample,No,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+103,180,Male,44.271843,MILD,MILD,0,No sample,0,No sample,No,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+103,0,Male,44.271843,MILD,MILD,69.470001,sero-negative,847.57001,sero-negative,No,No,Yes,No,No,No,Yes,No,NA,Recovered,1,2
+279,14,Male,70.632408,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,4
+279,28,Male,70.632408,SEVERE,SEVERE,1154.83,sero-positive,61980.59,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,4
+279,7,Male,70.632408,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,4
+279,0,Male,70.632408,SEVERE,SEVERE,176.45,sero-positive,2386.75,sero-positive,Yes,No,No,No,No,No,Yes,No,NA,Recovered,1,4
+279,180,Male,70.632408,SEVERE,SEVERE,690.20001,sero-positive,28876.631,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,4
+120,14,Male,60.556911,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+120,28,Male,60.556911,SEVERE,SEVERE,1198.63,sero-positive,62023.301,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+120,7,Male,60.556911,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+120,180,Male,60.556911,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+120,0,Male,60.556911,SEVERE,SEVERE,1067.84,sero-positive,40612.379,sero-positive,Yes,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+104,14,Male,36.51535,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+104,0,Male,36.51535,MILD,MILD,120.27,sero-positive,787.03003,sero-negative,Yes,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+104,7,Male,36.51535,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+104,28,Male,36.51535,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+104,180,Male,36.51535,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+66,7,Male,34.284073,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+66,180,Male,34.284073,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+66,28,Male,34.284073,SEVERE,SEVERE,796.02002,sero-positive,29285.52,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+66,14,Male,34.284073,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+66,0,Male,34.284073,SEVERE,SEVERE,35.52,sero-negative,723.03003,sero-negative,Yes,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+107,14,Male,55.560234,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+107,0,Male,55.560234,SEVERE,SEVERE,510.73001,sero-positive,47979.91,sero-positive,Yes,Yes,No,No,No,No,Yes,No,NA,Recovered,1,2
+107,7,Male,55.560234,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+107,28,Male,55.560234,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+107,180,Male,55.560234,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+263,7,Male,51.880486,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+263,28,Male,51.880486,MILD,MILD,1267.48,sero-positive,46217.34,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+263,14,Male,51.880486,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+263,180,Male,51.880486,MILD,MILD,810.33002,sero-positive,65268.109,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+263,0,Male,51.880486,MILD,MILD,1145.83,sero-positive,28817.24,sero-positive,Yes,Yes,No,No,No,No,Yes,No,NA,Recovered,1,2
+67,28,Female,32.025299,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+67,180,Female,32.025299,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+67,7,Female,32.025299,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+67,0,Female,32.025299,MILD,MILD,37.32,sero-negative,536.21997,sero-negative,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+67,14,Female,32.025299,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+33,7,Female,33.057487,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+33,14,Female,33.057487,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+33,180,Female,33.057487,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+33,0,Female,33.057487,MILD,MILD,422.98999,sero-positive,17253.439,sero-positive,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+33,28,Female,33.057487,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+27,180,Male,56.641819,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+27,14,Male,56.641819,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+27,0,Male,56.641819,SEVERE,SEVERE,32.360001,sero-negative,864.85999,sero-negative,Yes,Yes,No,No,No,No,Yes,No,NA,Recovered,1,2
+27,28,Male,56.641819,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+27,7,Male,56.641819,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+243,7,Male,52.964699,CRITICAL,SEVERE,0,No sample,0,No sample,Yes,Yes,Yes,No,No,No,Yes,Yes,,Recovered,1,2
+243,14,Male,52.964699,CRITICAL,SEVERE,0,No sample,0,No sample,Yes,Yes,Yes,No,No,No,Yes,Yes,,Recovered,1,2
+243,0,Male,52.964699,CRITICAL,SEVERE,1066.39,sero-positive,108843.65,sero-positive,Yes,Yes,Yes,No,No,No,Yes,Yes,NA,Recovered,1,2
+243,28,Male,52.964699,CRITICAL,SEVERE,1226.13,sero-positive,60593.789,sero-positive,Yes,Yes,Yes,No,No,No,Yes,Yes,,Recovered,1,2
+243,180,Male,52.964699,CRITICAL,SEVERE,1202.21,sero-positive,58901.531,sero-positive,Yes,Yes,Yes,No,No,No,Yes,Yes,,Recovered,1,2
+14,0,Female,37.648846,MILD,MILD,26.84,sero-negative,908.10999,sero-positive,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+14,7,Female,37.648846,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+14,28,Female,37.648846,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+14,180,Female,37.648846,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+14,14,Female,37.648846,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+190,7,Male,67.571434,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+190,14,Male,67.571434,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+190,180,Male,67.571434,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+190,0,Male,67.571434,MILD,MILD,107.01,sero-positive,2906.9299,sero-positive,Yes,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+190,28,Male,67.571434,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+289,7,Male,46.28968,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+289,28,Male,46.28968,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+289,180,Male,46.28968,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+289,14,Male,46.28968,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+289,0,Male,46.28968,MILD,MILD,45.209999,sero-negative,977.29999,sero-positive,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+7,28,Male,60.573341,MODERATE,MODERATE,924.34998,sero-positive,32714.92,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+7,180,Male,60.573341,MODERATE,MODERATE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+7,7,Male,60.573341,MODERATE,MODERATE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+7,14,Male,60.573341,MODERATE,MODERATE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+7,0,Male,60.573341,MODERATE,MODERATE,229.08,sero-positive,3387.25,sero-positive,No,Yes,No,No,No,No,Yes,No,NA,Recovered,1,2
+154,14,Male,47.595661,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+154,7,Male,47.595661,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+154,28,Male,47.595661,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+154,180,Male,47.595661,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+154,0,Male,47.595661,MILD,MILD,49.41,sero-negative,1340.13,sero-positive,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+265,28,Male,40.449722,SEVERE,SEVERE,218.39,sero-positive,2282.1299,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+265,0,Male,40.449722,SEVERE,SEVERE,234.74001,sero-positive,4295.3799,sero-positive,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+265,180,Male,40.449722,SEVERE,SEVERE,89.129997,sero-positive,2324.3301,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+265,14,Male,40.449722,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+265,7,Male,40.449722,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+23,28,Male,40.504482,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+23,14,Male,40.504482,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+23,180,Male,40.504482,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+23,0,Male,40.504482,SEVERE,SEVERE,789.63,sero-positive,33364.09,sero-positive,Yes,No,No,No,No,No,Yes,No,23.09,Recovered,1,2
+23,7,Male,40.504482,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+157,28,Male,42.251266,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+157,7,Male,42.251266,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+157,0,Male,42.251266,MILD,MILD,323.48999,sero-positive,3997.78,sero-positive,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+157,180,Male,42.251266,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+157,14,Male,42.251266,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+92,0,Male,32.780846,SEVERE,SEVERE,620.76001,sero-positive,5966.0801,sero-positive,Yes,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+92,180,Male,32.780846,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+92,28,Male,32.780846,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+92,7,Male,32.780846,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+92,14,Male,32.780846,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+127,14,Female,41.621548,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+127,180,Female,41.621548,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+127,28,Female,41.621548,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+127,0,Female,41.621548,SEVERE,SEVERE,47.18,sero-negative,1661.12,sero-positive,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+127,7,Female,41.621548,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+34,0,Male,47.727196,MILD,MILD,233.03999,sero-positive,52381.719,sero-positive,Yes,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+34,180,Male,47.727196,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+34,7,Male,47.727196,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+34,28,Male,47.727196,MILD,MILD,820.78003,sero-positive,35363,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+34,14,Male,47.727196,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+158,28,Male,48.912708,SEVERE,SEVERE,916.71002,sero-positive,19641.17,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+158,14,Male,48.912708,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+158,0,Male,48.912708,SEVERE,SEVERE,622.25,sero-positive,18088.391,sero-positive,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+158,7,Male,48.912708,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+158,180,Male,48.912708,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+228,180,Male,65.764496,MILD,MILD,617.77002,sero-positive,54863.691,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+228,28,Male,65.764496,MILD,MILD,1072.05,sero-positive,48138.238,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+228,14,Male,65.764496,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+228,7,Male,65.764496,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+228,0,Male,65.764496,MILD,MILD,401.01001,sero-positive,5051.9102,sero-positive,Yes,Yes,No,No,No,No,Yes,No,NA,Recovered,1,2
+291,0,Male,34.815224,MILD,MILD,50,sero-negative,2199.72,sero-positive,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+291,7,Male,34.815224,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+291,14,Male,34.815224,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+291,180,Male,34.815224,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+291,28,Male,34.815224,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+192,7,Female,48.707367,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+192,0,Female,48.707367,MILD,MILD,135.58,sero-positive,5168.5898,sero-positive,Yes,Yes,No,No,No,No,Yes,No,NA,Recovered,1,2
+192,14,Female,48.707367,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+192,28,Female,48.707367,MILD,MILD,1136.73,sero-positive,53848.449,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+192,180,Female,48.707367,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+143,0,Male,34.86451,MILD,MILD,51.560001,sero-negative,3105.6799,sero-positive,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+143,180,Male,34.86451,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+143,7,Male,34.86451,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+143,14,Male,34.86451,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+143,28,Male,34.86451,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+59,180,Male,26.826014,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+59,28,Male,26.826014,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+59,7,Male,26.826014,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+59,14,Male,26.826014,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+59,0,Male,26.826014,MILD,MILD,44.299999,sero-negative,752.42999,sero-negative,No,No,No,No,No,No,Yes,No,15.998,Recovered,1,2
+305,28,Male,49.038651,MILD,MILD,1162.7,sero-positive,58318.719,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+305,0,Male,49.038651,MILD,MILD,1177.8,sero-positive,38820.578,sero-positive,Yes,No,No,No,No,No,Yes,No,30.07,Recovered,1,2
+305,7,Male,49.038651,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+305,180,Male,49.038651,MILD,MILD,845.84998,sero-positive,50141.77,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+305,14,Male,49.038651,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+225,180,Male,35.614693,SEVERE,SEVERE,685.27002,sero-positive,11223.65,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+225,7,Male,35.614693,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+225,28,Male,35.614693,SEVERE,SEVERE,913.65002,sero-positive,17006.73,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+225,0,Male,35.614693,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,14.62,Recovered,1,2
+225,14,Male,35.614693,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+214,28,Male,30.511236,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+214,7,Male,30.511236,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+214,180,Male,30.511236,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+214,0,Male,30.511236,MILD,MILD,313.89999,sero-positive,4033.8899,sero-positive,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+214,14,Male,30.511236,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+38,7,Male,51.61776,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+38,180,Male,51.61776,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+38,14,Male,51.61776,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+38,28,Male,51.61776,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+38,0,Male,51.61776,SEVERE,SEVERE,325.12,sero-positive,49949.809,sero-positive,Yes,Yes,No,No,No,No,Yes,No,28.818,Recovered,1,2
+161,180,Male,43.061802,SEVERE,SEVERE,305.07999,sero-positive,4192.3599,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+161,0,Male,43.061802,SEVERE,SEVERE,195.16,sero-positive,643.46002,sero-negative,Yes,Yes,No,No,No,No,Yes,No,33.999,Recovered,1,2
+161,7,Male,43.061802,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+161,28,Male,43.061802,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+161,14,Male,43.061802,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+81,180,Male,62.52832,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+81,0,Male,62.52832,SEVERE,SEVERE,1207.28,sero-positive,58804.109,sero-positive,Yes,Yes,No,No,No,No,Yes,Yes,NA,Recovered,1,2
+81,28,Male,62.52832,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+81,7,Male,62.52832,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+81,14,Male,62.52832,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+89,180,Female,39.858452,SEVERE,SEVERE,0,No sample,0,No sample,No,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+89,28,Female,39.858452,SEVERE,SEVERE,0,No sample,0,No sample,No,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+89,7,Female,39.858452,SEVERE,SEVERE,0,No sample,0,No sample,No,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+89,0,Female,39.858452,SEVERE,SEVERE,25.76,sero-negative,838.91998,sero-negative,No,No,Yes,No,No,No,Yes,No,15.119,Recovered,1,2
+89,14,Female,39.858452,SEVERE,SEVERE,0,No sample,0,No sample,No,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+21,180,Male,30.741106,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+21,7,Male,30.741106,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+21,28,Male,30.741106,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+21,0,Male,30.741106,SEVERE,SEVERE,226.78999,sero-positive,6636.6099,sero-positive,Yes,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+21,14,Male,30.741106,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+230,180,Male,59.626141,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+230,0,Male,59.626141,SEVERE,SEVERE,27.190001,sero-negative,657.29999,sero-negative,Yes,No,No,No,No,No,Yes,No,28.25,Recovered,1,2
+230,14,Male,59.626141,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+230,7,Male,59.626141,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+230,28,Male,59.626141,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+180,180,Male,52.721138,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+180,7,Male,52.721138,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+180,28,Male,52.721138,MILD,MILD,1158.08,sero-positive,114237.31,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+180,14,Male,52.721138,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+180,0,Male,52.721138,MILD,MILD,437.60999,sero-positive,42092.672,sero-positive,Yes,No,No,No,No,No,Yes,No,21.974,Recovered,1,2
+76,28,Female,48.176098,MILD,MILD,551.07001,sero-positive,9616.6299,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,4
+76,14,Female,48.176098,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,4
+76,0,Female,48.176098,MILD,MILD,542.21997,sero-positive,9956.9502,sero-positive,Yes,No,No,No,No,No,Yes,No,30.627,Recovered,1,4
+76,180,Female,48.176098,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,4
+76,7,Female,48.176098,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,4
+70,28,Male,68.193047,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,Yes,Yes,Yes,,Recovered,1,2
+70,0,Male,68.193047,SEVERE,SEVERE,1006.56,sero-positive,30270.949,sero-positive,No,Yes,No,No,No,Yes,Yes,Yes,NA,Recovered,1,2
+70,180,Male,68.193047,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,Yes,Yes,Yes,,Recovered,1,2
+70,14,Male,68.193047,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,Yes,Yes,Yes,,Recovered,1,2
+70,7,Male,68.193047,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,Yes,Yes,Yes,,Recovered,1,2
+126,7,Male,42.070679,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+126,14,Male,42.070679,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+126,28,Male,42.070679,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+126,180,Male,42.070679,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+126,0,Male,42.070679,SEVERE,SEVERE,255.92,sero-positive,5078.2002,sero-positive,No,No,No,No,No,No,Yes,No,30.49,Recovered,1,2
+299,180,Male,51.658829,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+299,14,Male,51.658829,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+299,0,Male,51.658829,MILD,MILD,1158.3199,sero-positive,35484.219,sero-positive,No,No,No,No,No,No,Yes,No,25.6,Recovered,1,2
+299,28,Male,51.658829,MILD,MILD,1196.59,sero-positive,73595.008,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+299,7,Male,51.658829,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+148,28,Male,70.6325,MODERATE,MODERATE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+148,14,Male,70.6325,MODERATE,MODERATE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+148,0,Male,70.6325,MODERATE,MODERATE,970.65997,sero-positive,34213.309,sero-positive,Yes,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+148,7,Male,70.6325,MODERATE,MODERATE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+148,180,Male,70.6325,MODERATE,MODERATE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+186,180,Female,71.311501,MILD,MILD,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+186,14,Female,71.311501,MILD,MILD,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+186,0,Female,71.311501,MILD,MILD,371.04999,sero-positive,4868.98,sero-positive,No,Yes,No,No,No,No,Yes,No,26.8,Recovered,1,2
+186,28,Female,71.311501,MILD,MILD,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+186,7,Female,71.311501,MILD,MILD,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+270,14,Female,38.185589,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,3
+270,28,Female,38.185589,MILD,MILD,375.67001,sero-positive,12421.59,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,3
+270,180,Female,38.185589,MILD,MILD,339.73001,sero-positive,19141.1,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,3
+270,0,Female,38.185589,MILD,MILD,338.82999,sero-positive,7445.9702,sero-positive,No,No,No,No,No,No,Yes,No,30.74,Recovered,1,3
+270,7,Female,38.185589,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,3
+133,28,Male,44.578602,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+133,14,Male,44.578602,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+133,180,Male,44.578602,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+133,0,Male,44.578602,MILD,MILD,912.91998,sero-positive,38162.48,sero-positive,Yes,Yes,No,No,No,No,Yes,No,30.61,Recovered,1,2
+133,7,Male,44.578602,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+88,14,Male,51.647762,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+88,180,Male,51.647762,MILD,MILD,394.97,sero-positive,18909.98,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+88,28,Male,51.647762,MILD,MILD,806.44,sero-positive,31544.41,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+88,0,Male,51.647762,MILD,MILD,73.779999,sero-positive,1459.2,sero-positive,Yes,Yes,No,No,No,No,Yes,No,31.32,Recovered,1,2
+88,7,Male,51.647762,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+231,180,Male,71.130798,CRITICAL,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+231,0,Male,71.130798,CRITICAL,SEVERE,944.59003,sero-positive,28477.699,sero-positive,Yes,Yes,No,No,No,No,Yes,Yes,31.68,Recovered,1,2
+231,14,Male,71.130798,CRITICAL,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+231,28,Male,71.130798,CRITICAL,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+231,7,Male,71.130798,CRITICAL,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+278,0,Female,62.175102,SEVERE,SEVERE,271.20001,sero-positive,5764.3701,sero-positive,No,No,No,No,No,No,Yes,No,24.18,Recovered,1,2
+278,180,Female,62.175102,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+278,14,Female,62.175102,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+278,7,Female,62.175102,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+278,28,Female,62.175102,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+280,180,Male,65.44416,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,4
+280,28,Male,65.44416,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,4
+280,0,Male,65.44416,MILD,MILD,195.53999,sero-positive,4113.0698,sero-positive,No,No,No,No,No,No,Yes,No,31.65,Recovered,1,4
+280,7,Male,65.44416,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,4
+280,14,Male,65.44416,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,4
+307,14,Male,51.557526,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+307,0,Male,51.557526,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,15.03,Recovered,1,2
+307,28,Male,51.557526,MILD,MILD,502.92001,sero-positive,3511.3101,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+307,7,Male,51.557526,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+307,180,Male,51.557526,MILD,MILD,134.47,sero-positive,5517.6499,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+122,14,Female,56.02853,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+122,7,Female,56.02853,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+122,180,Female,56.02853,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+122,0,Female,56.02853,SEVERE,SEVERE,749.88,sero-positive,18664.369,sero-positive,Yes,Yes,No,No,No,No,Yes,No,35.24,Recovered,1,2
+122,28,Female,56.02853,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+108,7,Female,54.686954,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+108,14,Female,54.686954,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+108,28,Female,54.686954,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+108,0,Female,54.686954,MILD,MILD,36.139999,sero-negative,908.10999,sero-positive,No,No,No,No,No,No,Yes,No,26.43,Recovered,1,2
+108,180,Female,54.686954,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+248,0,Male,46.508713,MILD,MILD,624.71002,sero-positive,12330.18,sero-positive,Yes,No,No,No,No,No,Yes,No,31.69,Recovered,1,2
+248,14,Male,46.508713,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+248,7,Male,46.508713,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+248,28,Male,46.508713,MILD,MILD,1105.27,sero-positive,53226.66,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+248,180,Male,46.508713,MILD,MILD,605.45001,sero-positive,18226.051,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+114,7,Male,45.202847,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,Yes,,Recovered,1,2
+114,28,Male,45.202847,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,Yes,,Recovered,1,2
+114,0,Male,45.202847,SEVERE,SEVERE,700.25,sero-positive,15356.33,sero-positive,Yes,No,No,No,No,No,Yes,Yes,28.04,Recovered,1,2
+114,14,Male,45.202847,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,Yes,,Recovered,1,2
+114,180,Male,45.202847,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,Yes,,Recovered,1,2
+60,14,Male,58.703465,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+60,7,Male,58.703465,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+60,28,Male,58.703465,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+60,0,Male,58.703465,MILD,MILD,39.040001,sero-negative,640,sero-negative,Yes,Yes,No,No,No,No,Yes,No,27.21,Recovered,1,2
+60,180,Male,58.703465,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+271,14,Male,43.948883,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+271,180,Male,43.948883,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+271,0,Male,43.948883,MILD,MILD,629.58002,sero-positive,17408.26,sero-positive,Yes,No,No,No,No,No,Yes,No,32.08,Recovered,1,2
+271,28,Male,43.948883,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+271,7,Male,43.948883,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+106,28,Male,70.725586,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Died,1,2
+106,14,Male,70.725586,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Died,1,2
+106,180,Male,70.725586,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Died,1,2
+106,0,Male,70.725586,SEVERE,SEVERE,1184.9301,sero-positive,88405.602,sero-positive,Yes,Yes,No,No,No,No,Yes,No,31.81,Died,1,2
+106,7,Male,70.725586,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Died,1,2
+36,7,Male,26.598766,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+36,28,Male,26.598766,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+36,14,Male,26.598766,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+36,0,Male,26.598766,SEVERE,SEVERE,904.33002,sero-positive,41657.352,sero-positive,No,Yes,No,No,No,No,Yes,No,31.36,Recovered,1,2
+36,180,Male,26.598766,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+176,7,Female,48.006348,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+176,180,Female,48.006348,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+176,14,Female,48.006348,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+176,0,Female,48.006348,MILD,MILD,37.509998,sero-negative,539.64001,sero-negative,No,No,No,No,No,No,Yes,No,29.36,Recovered,1,2
+176,28,Female,48.006348,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+212,0,Male,51.59848,MILD,MILD,332.59,sero-positive,6198.3901,sero-positive,No,No,No,No,No,No,Yes,No,27.14,Recovered,1,2
+212,28,Male,51.59848,MILD,MILD,846.33002,sero-positive,16827.381,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+212,14,Male,51.59848,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+212,180,Male,51.59848,MILD,MILD,472.10999,sero-positive,3492.3301,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+212,7,Male,51.59848,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+32,0,Male,32.326469,MILD,MILD,73.919998,sero-positive,1195.01,sero-positive,No,No,No,No,No,No,Yes,No,28.27,Recovered,1,2
+32,28,Male,32.326469,MILD,MILD,945.28998,sero-positive,86105.469,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+32,14,Male,32.326469,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+32,180,Male,32.326469,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+32,7,Male,32.326469,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+239,28,Male,45.805183,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+239,7,Male,45.805183,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+239,0,Male,45.805183,MILD,MILD,158.42,sero-positive,2831.26,sero-positive,No,No,No,No,No,No,Yes,No,27.94,Recovered,1,2
+239,14,Male,45.805183,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+239,180,Male,45.805183,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+119,0,Male,36.40321,MILD,MILD,30.040001,sero-negative,591.57001,sero-negative,Yes,No,No,No,No,No,Yes,No,21.28,Recovered,1,2
+119,180,Male,36.40321,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+119,28,Male,36.40321,MILD,MILD,634.09998,sero-positive,17949.1,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+119,14,Male,36.40321,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+119,7,Male,36.40321,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+87,7,Male,65.189537,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+87,14,Male,65.189537,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+87,28,Male,65.189537,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+87,0,Male,65.189537,SEVERE,SEVERE,715.41998,sero-positive,18341.68,sero-positive,Yes,Yes,No,No,No,No,Yes,No,32.12,Recovered,1,2
+87,180,Male,65.189537,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+47,7,Male,46.08445,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+47,0,Male,46.08445,SEVERE,SEVERE,42.970001,sero-negative,925.40997,sero-positive,No,No,No,No,No,No,Yes,No,27.67,Recovered,1,2
+47,14,Male,46.08445,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+47,28,Male,46.08445,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+47,180,Male,46.08445,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+84,0,Male,60.242168,SEVERE,SEVERE,46.73,sero-negative,474.95001,sero-negative,Yes,Yes,No,No,No,No,Yes,No,20.93,Recovered,1,2
+84,14,Male,60.242168,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+84,7,Male,60.242168,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+84,28,Male,60.242168,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+84,180,Male,60.242168,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+101,180,Male,51.612286,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+101,14,Male,51.612286,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+101,28,Male,51.612286,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+101,0,Male,51.612286,SEVERE,SEVERE,83.330002,sero-positive,5094.0801,sero-positive,Yes,No,No,No,No,No,Yes,No,17.93,Recovered,1,2
+101,7,Male,51.612286,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+128,28,Female,57.747936,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+128,14,Female,57.747936,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+128,7,Female,57.747936,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+128,0,Female,57.747936,SEVERE,SEVERE,338.85999,sero-positive,8673.9404,sero-positive,No,No,No,No,No,No,Yes,No,36.49,Recovered,1,2
+128,180,Female,57.747936,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+19,14,Male,71.018539,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,Yes,No,Yes,No,,Recovered,1,2
+19,7,Male,71.018539,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,Yes,No,Yes,No,,Recovered,1,2
+19,28,Male,71.018539,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,Yes,No,Yes,No,,Recovered,1,2
+19,0,Male,71.018539,SEVERE,SEVERE,534.95001,sero-positive,14490.54,sero-positive,Yes,Yes,No,No,Yes,No,Yes,No,30.45,Recovered,1,2
+19,180,Male,71.018539,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,Yes,No,Yes,No,,Recovered,1,2
+218,14,Male,43.984474,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,4
+218,0,Male,43.984474,SEVERE,SEVERE,83.169998,sero-positive,6753.1499,sero-positive,Yes,No,No,No,No,No,Yes,No,30.47,Recovered,1,4
+218,180,Male,43.984474,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,4
+218,28,Male,43.984474,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,4
+218,7,Male,43.984474,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,4
+284,7,Male,48.630703,MILD,MILD,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+284,28,Male,48.630703,MILD,MILD,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+284,180,Male,48.630703,MILD,MILD,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+284,0,Male,48.630703,MILD,MILD,769.13,sero-positive,7949.7598,sero-positive,No,Yes,No,No,No,No,Yes,No,31.07,Recovered,1,2
+284,14,Male,48.630703,MILD,MILD,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+135,180,Male,82.22477,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+135,28,Male,82.22477,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+135,14,Male,82.22477,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+135,7,Male,82.22477,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+135,0,Male,82.22477,MILD,MILD,32.830002,sero-negative,893.97998,sero-negative,Yes,Yes,No,No,No,No,Yes,No,23.852,Recovered,1,2
+213,14,Female,42.111748,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+213,0,Female,42.111748,MODERATE,MODERATE,188.39,sero-positive,45323.898,sero-positive,No,No,No,No,No,No,Yes,No,32.57,Recovered,1,2
+213,180,Female,42.111748,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+213,28,Female,42.111748,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+213,7,Female,42.111748,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+1,0,Female,47.0126,MILD,MILD,36.73,sero-negative,539.67999,sero-negative,Yes,No,No,No,No,No,Yes,No,21.8,Recovered,1,2
+1,28,Female,47.0126,MILD,MILD,868.02002,sero-positive,53969.531,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+1,180,Female,47.0126,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+1,7,Female,47.0126,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+1,14,Female,47.0126,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+111,0,Female,33.109509,SEVERE,SEVERE,64.400002,sero-negative,6722.4702,sero-positive,No,No,No,No,No,No,Yes,No,22.19,Recovered,1,2
+111,180,Female,33.109509,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+111,14,Female,33.109509,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+111,28,Female,33.109509,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+111,7,Female,33.109509,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+207,28,Female,62.821247,SEVERE,SEVERE,1057.17,sero-positive,79307.141,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+207,0,Female,62.821247,SEVERE,SEVERE,121.4,sero-positive,2168.6001,sero-positive,Yes,Yes,No,No,No,No,Yes,No,31.206,Recovered,1,2
+207,180,Female,62.821247,SEVERE,SEVERE,656.44,sero-positive,28666.971,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+207,14,Female,62.821247,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+207,7,Female,62.821247,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+22,7,Male,42.771584,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+22,0,Male,42.771584,SEVERE,SEVERE,43.810001,sero-negative,427.23999,sero-negative,Yes,Yes,No,No,No,No,Yes,No,27.74,Recovered,1,2
+22,180,Male,42.771584,SEVERE,SEVERE,421.09,sero-positive,25650.301,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+22,28,Male,42.771584,SEVERE,SEVERE,793.88,sero-positive,33367.211,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+22,14,Male,42.771584,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+117,0,Female,37.002811,MILD,MILD,39.169998,sero-negative,600.21997,sero-negative,No,Yes,No,No,No,No,Yes,No,33.43,Recovered,1,2
+117,14,Female,37.002811,MILD,MILD,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+117,28,Female,37.002811,MILD,MILD,781.25,sero-positive,30329.721,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+117,180,Female,37.002811,MILD,MILD,540.46997,sero-positive,33570.289,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+117,7,Female,37.002811,MILD,MILD,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+49,28,Male,57.780788,MODERATE,MODERATE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+49,7,Male,57.780788,MODERATE,MODERATE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+49,180,Male,57.780788,MODERATE,MODERATE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+49,0,Male,57.780788,MODERATE,MODERATE,133.50999,sero-positive,567.58002,sero-negative,Yes,Yes,No,No,No,No,Yes,No,31.24,Recovered,1,2
+49,14,Male,57.780788,MODERATE,MODERATE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+6,14,Female,56.337914,MILD,MILD,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+6,180,Female,56.337914,MILD,MILD,1196.78,sero-positive,500584.72,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+6,28,Female,56.337914,MILD,MILD,203.98,sero-positive,2422.5801,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+6,7,Female,56.337914,MILD,MILD,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+6,0,Female,56.337914,MILD,MILD,34.040001,sero-negative,531.03003,sero-negative,No,Yes,No,No,No,No,Yes,No,NA,Recovered,1,2
+211,14,Male,42.481365,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,1
+211,180,Male,42.481365,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,1
+211,28,Male,42.481365,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,1
+211,7,Male,42.481365,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,1
+211,0,Male,42.481365,MILD,MILD,39.619999,sero-negative,508.63,sero-negative,No,No,No,No,No,No,Yes,No,NA,Recovered,1,1
+283,14,Male,59.478291,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,4
+283,180,Male,59.478291,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,4
+283,7,Male,59.478291,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,4
+283,28,Male,59.478291,SEVERE,SEVERE,496.69,sero-positive,9133.7695,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,4
+283,0,Male,59.478291,SEVERE,SEVERE,33.060001,sero-negative,531.03003,sero-negative,Yes,Yes,No,No,No,No,Yes,No,34.47,Recovered,1,4
+189,28,Male,43.943409,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+189,180,Male,43.943409,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+189,14,Male,43.943409,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+189,7,Male,43.943409,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+189,0,Male,43.943409,SEVERE,SEVERE,72.389999,sero-positive,975.98999,sero-positive,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+57,28,Female,31.850073,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+57,7,Female,31.850073,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+57,0,Female,31.850073,MILD,MILD,28.32,sero-negative,951.63,sero-positive,Yes,No,No,No,No,No,Yes,No,26.639,Recovered,1,2
+57,180,Female,31.850073,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+57,14,Female,31.850073,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+142,0,Male,52.745777,SEVERE,SEVERE,92.949997,sero-positive,6616.9902,sero-positive,No,Yes,No,No,No,No,Yes,No,15.97,Recovered,1,2
+142,28,Male,52.745777,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+142,180,Male,52.745777,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+142,14,Male,52.745777,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+142,7,Male,52.745777,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+267,28,Male,36.772827,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+267,14,Male,36.772827,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+267,0,Male,36.772827,SEVERE,SEVERE,81.779999,sero-positive,1027.45,sero-positive,Yes,No,No,No,No,No,Yes,No,21.543,Recovered,1,2
+267,180,Male,36.772827,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+267,7,Male,36.772827,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+216,14,Male,42.489578,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+216,28,Male,42.489578,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+216,0,Male,42.489578,MILD,MILD,40.43,sero-negative,491.79001,sero-negative,No,No,No,No,No,No,Yes,No,27.35,Recovered,1,2
+216,180,Male,42.489578,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+216,7,Male,42.489578,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+149,180,Male,70.898071,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+149,7,Male,70.898071,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+149,28,Male,70.898071,MILD,MILD,1165.3101,sero-positive,38167.262,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+149,0,Male,70.898071,MILD,MILD,32.57,sero-negative,539.67999,sero-negative,Yes,Yes,No,No,No,No,Yes,No,NA,Recovered,1,2
+149,14,Male,70.898071,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+272,0,Male,34.634525,MILD,MILD,186.09,sero-positive,747.53998,sero-negative,No,No,No,No,No,No,Yes,No,NA,Died,1,2
+272,180,Male,34.634525,MILD,MILD,128.38,sero-positive,1548.87,sero-positive,No,No,No,No,No,No,Yes,No,,Died,1,2
+272,7,Male,34.634525,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Died,1,2
+272,14,Male,34.634525,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Died,1,2
+272,28,Male,34.634525,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Died,1,2
+175,7,Female,64.84182,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+175,0,Female,64.84182,MILD,MILD,42.41,sero-negative,138.11,sero-negative,Yes,Yes,No,No,No,No,Yes,No,19.897,Recovered,1,2
+175,14,Female,64.84182,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+175,28,Female,64.84182,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+175,180,Female,64.84182,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+304,7,Male,48.986633,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,Yes,No,Yes,No,,Recovered,1,2
+304,0,Male,48.986633,MILD,MILD,101.52,sero-positive,626.53003,sero-negative,Yes,Yes,No,No,Yes,No,Yes,No,21.655,Recovered,1,2
+304,28,Male,48.986633,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,Yes,No,Yes,No,,Recovered,1,2
+304,180,Male,48.986633,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,Yes,No,Yes,No,,Recovered,1,2
+304,14,Male,48.986633,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,Yes,No,Yes,No,,Recovered,1,2
+153,0,Female,62.092995,SEVERE,SEVERE,47.220001,sero-negative,1546.05,sero-positive,Yes,Yes,No,No,No,No,Yes,No,15.85,Recovered,1,2
+153,180,Female,62.092995,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+153,28,Female,62.092995,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+153,14,Female,62.092995,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+153,7,Female,62.092995,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+125,180,Male,29.897945,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,Yes,,Recovered,1,3
+125,0,Male,29.897945,SEVERE,SEVERE,71.480003,sero-positive,4250.5498,sero-positive,No,No,No,No,No,No,Yes,Yes,29.63,Recovered,1,3
+125,7,Male,29.897945,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,Yes,,Recovered,1,3
+125,28,Male,29.897945,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,Yes,,Recovered,1,3
+125,14,Male,29.897945,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,Yes,,Recovered,1,3
+155,7,Male,53.26598,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+155,28,Male,53.26598,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+155,14,Male,53.26598,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+155,0,Male,53.26598,SEVERE,SEVERE,45.470001,sero-negative,592.84003,sero-negative,Yes,Yes,No,No,No,No,Yes,No,26.639,Recovered,1,2
+155,180,Male,53.26598,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+193,14,Male,79.210358,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,Yes,,Died,1,3
+193,7,Male,79.210358,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,Yes,,Died,1,3
+193,28,Male,79.210358,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,Yes,,Died,1,3
+193,0,Male,79.210358,SEVERE,SEVERE,34.939999,sero-negative,618.34998,sero-negative,No,Yes,No,No,No,No,Yes,Yes,20.08,Died,1,3
+193,180,Male,79.210358,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,Yes,,Died,1,3
+99,180,Female,82.093346,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+99,28,Female,82.093346,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+99,7,Female,82.093346,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+99,14,Female,82.093346,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+99,0,Female,82.093346,MILD,MILD,40.34,sero-negative,205.47,sero-negative,Yes,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+71,14,Male,56.39267,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+71,28,Male,56.39267,SEVERE,SEVERE,921.58002,sero-positive,23106.289,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+71,7,Male,56.39267,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+71,180,Male,56.39267,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+71,0,Male,56.39267,SEVERE,SEVERE,35.139999,sero-negative,539.67999,sero-negative,Yes,Yes,No,No,No,No,Yes,No,17.634,Recovered,1,2
+5,7,Male,60.874626,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+5,28,Male,60.874626,SEVERE,SEVERE,1183.17,sero-positive,101869.7,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+5,0,Male,60.874626,SEVERE,SEVERE,1119.62,sero-positive,122209.54,sero-positive,Yes,Yes,No,No,No,No,Yes,No,30.436,Recovered,1,2
+5,14,Male,60.874626,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+5,180,Male,60.874626,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+166,180,Female,55.275604,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+166,28,Female,55.275604,MILD,MILD,1027.9,sero-positive,59986.43,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+166,14,Female,55.275604,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+166,7,Female,55.275604,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+166,0,Female,55.275604,MILD,MILD,642.92999,sero-positive,44127.141,sero-positive,Yes,No,No,No,No,No,Yes,No,30.37,Recovered,1,2
+287,0,Male,47.346626,MILD,MILD,522.09003,sero-positive,27463.82,sero-positive,Yes,Yes,No,No,No,No,Yes,No,NA,Recovered,1,1
+287,14,Male,47.346626,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,1
+287,28,Male,47.346626,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,1
+287,7,Male,47.346626,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,1
+287,180,Male,47.346626,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,1
+254,7,Female,33.002731,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+254,0,Female,33.002731,SEVERE,SEVERE,31.049999,sero-negative,754.73999,sero-negative,No,No,No,No,No,No,Yes,No,32.96,Recovered,1,2
+254,14,Female,33.002731,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+254,28,Female,33.002731,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+254,180,Female,33.002731,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+55,28,Female,48.773075,SEVERE,SEVERE,371.01001,sero-positive,1650.08,sero-positive,No,No,No,No,No,Yes,Yes,No,,Recovered,1,2
+55,0,Female,48.773075,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,Yes,Yes,No,17.03,Recovered,1,2
+55,14,Female,48.773075,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,Yes,Yes,No,,Recovered,1,2
+55,7,Female,48.773075,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,Yes,Yes,No,,Recovered,1,2
+55,180,Female,48.773075,SEVERE,SEVERE,375.45999,sero-positive,1758.88,sero-positive,No,No,No,No,No,Yes,Yes,No,,Recovered,1,2
+253,28,Male,61.000538,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,Yes,No,Yes,No,,Recovered,1,2
+253,0,Male,61.000538,SEVERE,SEVERE,64.269997,sero-negative,272.84,sero-negative,No,Yes,No,No,Yes,No,Yes,No,21.92,Recovered,1,2
+253,14,Male,61.000538,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,Yes,No,Yes,No,,Recovered,1,2
+253,180,Male,61.000538,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,Yes,No,Yes,No,,Recovered,1,2
+253,7,Male,61.000538,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,Yes,No,Yes,No,,Recovered,1,2
+224,180,Male,44.918102,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+224,0,Male,44.918102,SEVERE,SEVERE,44.07,sero-negative,1952.11,sero-positive,Yes,No,No,No,No,No,Yes,No,31.29,Recovered,1,2
+224,7,Male,44.918102,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+224,28,Male,44.918102,SEVERE,SEVERE,1112.83,sero-positive,62817.422,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+224,14,Male,44.918102,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+43,0,Female,48.020149,SEVERE,SEVERE,244.35001,sero-positive,4139.6499,sero-positive,No,Yes,No,No,No,No,Yes,No,16.414,Recovered,1,2
+43,14,Female,48.020149,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+43,28,Female,48.020149,SEVERE,SEVERE,779.62,sero-positive,5243.1001,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+43,180,Female,48.020149,SEVERE,SEVERE,369.64001,sero-positive,15053.87,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+43,7,Female,48.020149,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+174,7,Male,35.368282,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+174,0,Male,35.368282,SEVERE,SEVERE,37.02,sero-negative,833.64001,sero-negative,No,No,No,No,No,No,Yes,No,13.783,Recovered,1,2
+174,28,Male,35.368282,SEVERE,SEVERE,572.78003,sero-positive,15562.11,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+174,180,Male,35.368282,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+174,14,Male,35.368282,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+40,7,Male,30.423622,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+40,14,Male,30.423622,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+40,0,Male,30.423622,MILD,MILD,453.5,sero-positive,27134.529,sero-positive,No,No,No,No,No,No,Yes,No,15.389,Recovered,1,2
+40,28,Male,30.423622,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+40,180,Male,30.423622,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+226,14,Male,59.431747,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,4
+226,180,Male,59.431747,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,4
+226,7,Male,59.431747,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,4
+226,28,Male,59.431747,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,4
+226,0,Male,59.431747,SEVERE,SEVERE,790.70001,sero-positive,55792.199,sero-positive,No,No,No,No,No,No,Yes,No,25.53,Recovered,1,4
+276,7,Male,52.209148,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+276,14,Male,52.209148,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+276,0,Male,52.209148,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,22.09,Recovered,1,2
+276,180,Male,52.209148,SEVERE,SEVERE,604.41998,sero-positive,41869.359,sero-positive,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+276,28,Male,52.209148,SEVERE,SEVERE,1007.6,sero-positive,35690.551,sero-positive,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+286,180,Male,40.918018,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+286,7,Male,40.918018,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+286,14,Male,40.918018,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+286,0,Male,40.918018,SEVERE,SEVERE,436.5,sero-positive,13247.67,sero-positive,Yes,No,No,No,No,No,Yes,No,33.16,Recovered,1,2
+286,28,Male,40.918018,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+159,28,Male,71.314232,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+159,180,Male,71.314232,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+159,7,Male,71.314232,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+159,0,Male,71.314232,SEVERE,SEVERE,858.27002,sero-positive,24363.199,sero-positive,No,No,No,No,No,No,Yes,No,25.05,Recovered,1,2
+159,14,Male,71.314232,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+227,0,Male,54.183178,MILD,MILD,764.98999,sero-positive,28488.039,sero-positive,Yes,No,Yes,No,No,No,Yes,No,34.83,Recovered,1,2
+227,7,Male,54.183178,MILD,MILD,0,No sample,0,No sample,Yes,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+227,28,Male,54.183178,MILD,MILD,693.59003,sero-positive,43501.031,sero-positive,Yes,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+227,14,Male,54.183178,MILD,MILD,0,No sample,0,No sample,Yes,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+227,180,Male,54.183178,MILD,MILD,0,No sample,0,No sample,Yes,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+115,180,Female,76.943375,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+115,0,Female,76.943375,SEVERE,SEVERE,45.860001,sero-negative,552.28998,sero-negative,Yes,Yes,No,No,No,No,Yes,No,30.63,Recovered,1,2
+115,28,Female,76.943375,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+115,14,Female,76.943375,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+115,7,Female,76.943375,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+183,28,Female,34.196457,SEVERE,SEVERE,816.34003,sero-positive,34622,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+183,0,Female,34.196457,SEVERE,SEVERE,66.860001,sero-negative,817.22998,sero-negative,Yes,No,No,No,No,No,Yes,No,21.12,Recovered,1,2
+183,14,Female,34.196457,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+183,7,Female,34.196457,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+183,180,Female,34.196457,SEVERE,SEVERE,987.90002,sero-positive,577870.44,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+282,7,Female,37.892632,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+282,14,Female,37.892632,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+282,28,Female,37.892632,SEVERE,SEVERE,720.75,sero-positive,12585.31,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+282,180,Female,37.892632,SEVERE,SEVERE,522.92999,sero-positive,83370.25,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+282,0,Female,37.892632,SEVERE,SEVERE,190.49001,sero-positive,1671.77,sero-positive,No,Yes,No,No,No,No,Yes,No,18.82,Recovered,1,2
+134,28,Male,38.456642,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+134,0,Male,38.456642,MILD,MILD,34.759998,sero-negative,721.92999,sero-negative,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+134,7,Male,38.456642,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+134,180,Male,38.456642,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+134,14,Male,38.456642,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+244,7,Female,53.046947,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+244,0,Female,53.046947,SEVERE,SEVERE,357.79999,sero-positive,13768.79,sero-positive,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+244,180,Female,53.046947,SEVERE,SEVERE,947.33002,sero-positive,393834.75,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+244,28,Female,53.046947,SEVERE,SEVERE,962.53998,sero-positive,85621.023,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+244,14,Female,53.046947,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+82,14,Male,69.676964,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+82,0,Male,69.676964,MILD,MILD,480.89999,sero-positive,14956.73,sero-positive,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+82,180,Male,69.676964,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+82,7,Male,69.676964,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+82,28,Male,69.676964,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+56,28,Male,52.148914,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+56,180,Male,52.148914,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+56,0,Male,52.148914,SEVERE,SEVERE,60.459999,sero-negative,735.06,sero-negative,Yes,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+56,14,Male,52.148914,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+56,7,Male,52.148914,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+269,0,Male,59.908142,SEVERE,SEVERE,531.66998,sero-positive,18899.43,sero-positive,Yes,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+269,180,Male,59.908142,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+269,28,Male,59.908142,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+269,7,Male,59.908142,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+269,14,Male,59.908142,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+8,0,Male,53.312527,MILD,MILD,745.41998,sero-positive,14052.06,sero-positive,No,No,No,No,No,No,Yes,No,NA,Recovered,1,4
+8,180,Male,53.312527,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,4
+8,7,Male,53.312527,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,4
+8,28,Male,53.312527,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,4
+8,14,Male,53.312527,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,4
+93,0,Male,76.910515,SEVERE,SEVERE,699.90997,sero-positive,14006,sero-positive,Yes,Yes,No,No,No,No,Yes,No,NA,Recovered,1,2
+93,180,Male,76.910515,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+93,28,Male,76.910515,SEVERE,SEVERE,910.5,sero-positive,9063.9297,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+93,14,Male,76.910515,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+93,7,Male,76.910515,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+52,28,Male,43.034424,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,1
+52,14,Male,43.034424,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,1
+52,0,Male,43.034424,SEVERE,SEVERE,304.95999,sero-positive,9839.4805,sero-positive,Yes,No,No,No,No,No,Yes,No,NA,Recovered,1,1
+52,7,Male,43.034424,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,1
+52,180,Male,43.034424,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,1
+255,7,Female,70.876167,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+255,14,Female,70.876167,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+255,28,Female,70.876167,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+255,0,Female,70.876167,SEVERE,SEVERE,106.32,sero-positive,1489.1899,sero-positive,No,Yes,No,No,No,No,Yes,No,NA,Recovered,1,2
+255,180,Female,70.876167,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+18,14,Male,40.698986,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+18,180,Male,40.698986,SEVERE,SEVERE,299.20001,sero-positive,22154.631,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+18,0,Male,40.698986,SEVERE,SEVERE,491.97,sero-positive,28502.211,sero-positive,No,No,No,No,No,No,Yes,No,26.11,Recovered,1,2
+18,28,Male,40.698986,SEVERE,SEVERE,640.53998,sero-positive,33034.039,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+18,7,Male,40.698986,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+259,28,Male,81.80587,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,3
+259,14,Male,81.80587,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,3
+259,7,Male,81.80587,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,3
+259,180,Male,81.80587,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,3
+259,0,Male,81.80587,SEVERE,SEVERE,56.93,sero-negative,806.54999,sero-negative,No,Yes,No,No,No,No,Yes,No,NA,Recovered,1,3
+240,7,Male,59.472816,MODERATE,MODERATE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,Yes,,Died,1,2
+240,14,Male,59.472816,MODERATE,MODERATE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,Yes,,Died,1,2
+240,180,Male,59.472816,MODERATE,MODERATE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,Yes,,Died,1,2
+240,0,Male,59.472816,MODERATE,MODERATE,38.580002,sero-negative,886,sero-negative,No,Yes,No,No,No,No,Yes,Yes,34.65,Died,1,2
+240,28,Male,59.472816,MODERATE,MODERATE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,Yes,,Died,1,2
+46,28,Male,73.562057,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+46,14,Male,73.562057,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+46,180,Male,73.562057,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+46,7,Male,73.562057,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+46,0,Male,73.562057,SEVERE,SEVERE,523.81,sero-positive,12431.31,sero-positive,Yes,Yes,No,No,No,No,Yes,Yes,19.28,Recovered,1,2
+26,0,Male,45.030357,SEVERE,SEVERE,172.09,sero-positive,8323.9004,sero-positive,Yes,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+26,7,Male,45.030357,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+26,28,Male,45.030357,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+26,14,Male,45.030357,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+26,180,Male,45.030357,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+301,14,Male,78.996948,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+301,28,Male,78.996948,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+301,7,Male,78.996948,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+301,180,Male,78.996948,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+301,0,Male,78.996948,SEVERE,SEVERE,225.28,sero-positive,1825.14,sero-positive,Yes,Yes,No,No,No,No,Yes,No,NA,Recovered,1,2
+202,180,Female,42.568977,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+202,14,Female,42.568977,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+202,28,Female,42.568977,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+202,7,Female,42.568977,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+202,0,Female,42.568977,MILD,MILD,29.870001,sero-negative,931.95001,sero-positive,No,No,No,No,No,No,Yes,No,21.39,Recovered,1,2
+130,14,Male,34.971287,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+130,180,Male,34.971287,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+130,28,Male,34.971287,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+130,0,Male,34.971287,SEVERE,SEVERE,231.22,sero-positive,13638.93,sero-positive,No,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+130,7,Male,34.971287,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+50,7,Male,65.093712,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+50,28,Male,65.093712,MILD,MILD,907.77002,sero-positive,18016.1,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+50,0,Male,65.093712,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,18.8,Recovered,1,2
+50,14,Male,65.093712,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+50,180,Male,65.093712,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+210,7,Male,59.779461,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,Yes,No,Yes,No,,Recovered,1,2
+210,28,Male,59.779461,SEVERE,SEVERE,847.98999,sero-positive,50941.07,sero-positive,Yes,Yes,No,No,Yes,No,Yes,No,,Recovered,1,2
+210,14,Male,59.779461,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,Yes,No,Yes,No,,Recovered,1,2
+210,180,Male,59.779461,SEVERE,SEVERE,990.90002,sero-positive,320035.63,sero-positive,Yes,Yes,No,No,Yes,No,Yes,No,,Recovered,1,2
+210,0,Male,59.779461,SEVERE,SEVERE,47.48,sero-negative,2449.48,sero-positive,Yes,Yes,No,No,Yes,No,Yes,No,NA,Recovered,1,2
+78,7,Male,57.397484,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,1
+78,180,Male,57.397484,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,1
+78,0,Male,57.397484,SEVERE,SEVERE,279.97,sero-positive,59087.68,sero-positive,Yes,No,No,No,No,No,Yes,No,34.32,Recovered,1,1
+78,28,Male,57.397484,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,1
+78,14,Male,57.397484,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,1
+151,28,Male,55.773903,SEVERE,SEVERE,837.66998,sero-positive,45265.691,sero-positive,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+151,14,Male,55.773903,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+151,0,Male,55.773903,SEVERE,SEVERE,828.04999,sero-positive,34127.141,sero-positive,Yes,Yes,No,No,No,No,Yes,Yes,NA,Recovered,1,2
+151,7,Male,55.773903,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+151,180,Male,55.773903,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+4,14,Male,57.780788,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,4
+4,180,Male,57.780788,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,4
+4,28,Male,57.780788,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,4
+4,7,Male,57.780788,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,4
+4,0,Male,57.780788,SEVERE,SEVERE,430.95001,sero-positive,46498.672,sero-positive,Yes,Yes,No,No,No,No,Yes,Yes,NA,Recovered,1,4
+241,7,Male,65.238823,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+241,28,Male,65.238823,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+241,14,Male,65.238823,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+241,0,Male,65.238823,SEVERE,SEVERE,746.38,sero-positive,34369.922,sero-positive,Yes,Yes,No,No,No,No,Yes,Yes,NA,Recovered,1,2
+241,180,Male,65.238823,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+229,0,Male,59.032013,SEVERE,SEVERE,60.59,sero-negative,1126.95,sero-positive,Yes,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+229,28,Male,59.032013,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+229,14,Male,59.032013,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+229,180,Male,59.032013,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+229,7,Male,59.032013,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+238,7,Male,68.346344,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+238,28,Male,68.346344,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+238,14,Male,68.346344,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+238,180,Male,68.346344,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+238,0,Male,68.346344,SEVERE,SEVERE,658.48999,sero-positive,25654.391,sero-positive,No,No,No,No,No,No,Yes,No,30.59,Recovered,1,2
+199,7,Female,51.275524,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+199,14,Female,51.275524,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+199,180,Female,51.275524,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+199,28,Female,51.275524,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+199,0,Female,51.275524,SEVERE,SEVERE,30,sero-negative,4386.4399,sero-positive,Yes,Yes,No,No,No,No,Yes,No,23.31,Recovered,1,2
+73,0,Male,84.27272,SEVERE,SEVERE,52.919998,sero-negative,347.92999,sero-negative,Yes,Yes,No,Yes,No,No,Yes,Yes,16.19,Died,1,4
+73,14,Male,84.27272,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,Yes,No,No,Yes,Yes,,Died,1,4
+73,28,Male,84.27272,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,Yes,No,No,Yes,Yes,,Died,1,4
+73,7,Male,84.27272,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,Yes,No,No,Yes,Yes,,Died,1,4
+73,180,Male,84.27272,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,Yes,No,No,Yes,Yes,,Died,1,4
+236,28,Female,54.648624,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+236,0,Female,54.648624,SEVERE,SEVERE,318.89999,sero-positive,6678.4502,sero-positive,Yes,No,No,No,No,No,Yes,No,31.92,Recovered,1,2
+236,180,Female,54.648624,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+236,7,Female,54.648624,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+236,14,Female,54.648624,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+75,180,Male,41.597023,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+75,0,Male,41.597023,MILD,MILD,464.25,sero-positive,8489.4199,sero-positive,Yes,No,No,No,No,No,Yes,No,23.75,Recovered,1,2
+75,28,Male,41.597023,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+75,7,Male,41.597023,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+75,14,Male,41.597023,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+200,7,Female,68.559929,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+200,0,Female,68.559929,SEVERE,SEVERE,666.79999,sero-positive,3437.3101,sero-positive,Yes,No,No,No,No,No,Yes,No,17.03,Recovered,1,2
+200,14,Female,68.559929,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+200,180,Female,68.559929,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+200,28,Female,68.559929,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+123,180,Female,32.871311,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,Yes,,Recovered,1,2
+123,7,Female,32.871311,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,Yes,,Recovered,1,2
+123,14,Female,32.871311,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,Yes,,Recovered,1,2
+123,28,Female,32.871311,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,Yes,,Recovered,1,2
+123,0,Female,32.871311,SEVERE,SEVERE,795.54999,sero-positive,63404.871,sero-positive,No,No,No,No,No,No,Yes,Yes,17.05,Recovered,1,2
+20,14,Male,41.950211,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+20,180,Male,41.950211,MILD,MILD,108.34,sero-positive,2928.6899,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+20,0,Male,41.950211,MILD,MILD,51.380001,sero-negative,1207.29,sero-positive,Yes,No,No,No,No,No,Yes,No,30.49,Recovered,1,2
+20,28,Male,41.950211,MILD,MILD,248.24001,sero-positive,8229.4102,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+20,7,Male,41.950211,MILD,MILD,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+96,14,Male,49.076984,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+96,0,Male,49.076984,SEVERE,SEVERE,816.32001,sero-positive,17031.141,sero-positive,Yes,No,No,No,No,No,Yes,No,31.05,Recovered,1,2
+96,180,Male,49.076984,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+96,7,Male,49.076984,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+96,28,Male,49.076984,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+251,28,Male,35.45042,SEVERE,SEVERE,498.95999,sero-positive,9808.0303,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+251,14,Male,35.45042,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+251,180,Male,35.45042,SEVERE,SEVERE,144.66,sero-positive,8125.0801,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+251,0,Male,35.45042,SEVERE,SEVERE,311.92001,sero-positive,27516.66,sero-positive,Yes,No,No,No,No,No,Yes,No,33.09,Recovered,1,2
+251,7,Male,35.45042,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+285,0,Male,64.228531,MILD,MILD,46.119999,sero-negative,203.11,sero-negative,No,No,No,No,No,No,Yes,No,34.42,Recovered,1,3
+285,7,Male,64.228531,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,3
+285,14,Male,64.228531,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,3
+285,28,Male,64.228531,MILD,MILD,26.629999,sero-negative,784.40997,sero-negative,No,No,No,No,No,No,Yes,No,,Recovered,1,3
+285,180,Male,64.228531,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,3
+94,7,Male,52.077728,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+94,180,Male,52.077728,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+94,14,Male,52.077728,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+94,28,Male,52.077728,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+94,0,Male,52.077728,SEVERE,SEVERE,56.029999,sero-negative,3583.4399,sero-positive,Yes,No,No,No,No,No,Yes,No,27.39,Recovered,1,2
+13,14,Female,55.305721,MILD,MILD,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+13,7,Female,55.305721,MILD,MILD,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+13,0,Female,55.305721,MILD,MILD,68.209999,sero-negative,6941.75,sero-positive,No,Yes,No,No,No,No,Yes,No,NA,Recovered,1,2
+13,180,Female,55.305721,MILD,MILD,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+13,28,Female,55.305721,MILD,MILD,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+268,180,Male,51.034588,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+268,0,Male,51.034588,SEVERE,SEVERE,581.14001,sero-positive,17602.08,sero-positive,Yes,Yes,No,No,No,No,Yes,No,30.25,Recovered,1,2
+268,7,Male,51.034588,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+268,14,Male,51.034588,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+268,28,Male,51.034588,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+196,180,Male,54.470661,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,3
+196,7,Male,54.470661,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,3
+196,0,Male,54.470661,MILD,MILD,59.16,sero-negative,220.92999,sero-negative,No,No,No,No,No,No,Yes,No,27.15,Recovered,1,3
+196,28,Male,54.470661,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,3
+196,14,Male,54.470661,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,3
+118,28,Male,59.078556,SEVERE,SEVERE,706.22998,sero-positive,16094.37,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+118,7,Male,59.078556,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+118,14,Male,59.078556,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+118,180,Male,59.078556,SEVERE,SEVERE,872.53003,sero-positive,204838.83,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+118,0,Male,59.078556,SEVERE,SEVERE,215.21001,sero-positive,4815.7402,sero-positive,No,No,No,No,No,No,Yes,No,25.63,Recovered,1,2
+247,14,Male,36.997337,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+247,7,Male,36.997337,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+247,180,Male,36.997337,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+247,28,Male,36.997337,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+247,0,Male,36.997337,SEVERE,SEVERE,551.58002,sero-positive,57249.512,sero-positive,Yes,No,No,No,No,No,Yes,No,30.15,Recovered,1,2
+245,7,Male,58.859524,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,Yes,No,No,No,Yes,No,,Recovered,1,2
+245,14,Male,58.859524,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,Yes,No,No,No,Yes,No,,Recovered,1,2
+245,180,Male,58.859524,SEVERE,SEVERE,256.69,sero-positive,16059.65,sero-positive,Yes,Yes,Yes,No,No,No,Yes,No,,Recovered,1,2
+245,0,Male,58.859524,SEVERE,SEVERE,314.23001,sero-positive,7019.3101,sero-positive,Yes,Yes,Yes,No,No,No,Yes,No,27.26,Recovered,1,2
+245,28,Male,58.859524,SEVERE,SEVERE,495.04999,sero-positive,14250.46,sero-positive,Yes,Yes,Yes,No,No,No,Yes,No,,Recovered,1,2
+140,14,Male,47.026291,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+140,7,Male,47.026291,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+140,0,Male,47.026291,MILD,MILD,209.21001,sero-positive,2178.6699,sero-positive,No,No,No,No,No,No,Yes,No,22.04,Recovered,1,2
+140,180,Male,47.026291,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+140,28,Male,47.026291,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+69,14,Male,46.448593,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+69,180,Male,46.448593,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+69,28,Male,46.448593,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+69,0,Male,46.448593,SEVERE,SEVERE,602.59003,sero-positive,4827.8599,sero-positive,No,No,No,No,No,No,Yes,No,18.73,Recovered,1,2
+69,7,Male,46.448593,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+308,180,Female,28.208656,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+308,7,Female,28.208656,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+308,14,Female,28.208656,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+308,28,Female,28.208656,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+308,0,Female,28.208656,MILD,MILD,194.05,sero-positive,6107.0698,sero-positive,No,No,No,No,No,No,Yes,No,21.65,Recovered,1,2
+160,14,Female,59.105938,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+160,7,Female,59.105938,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+160,180,Female,59.105938,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+160,28,Female,59.105938,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+160,0,Female,59.105938,SEVERE,SEVERE,649.06,sero-positive,5393.21,sero-positive,Yes,No,No,No,No,No,Yes,No,NA,Recovered,1,2
+170,14,Female,67.152618,CRITICAL,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+170,7,Female,67.152618,CRITICAL,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+170,0,Female,67.152618,CRITICAL,SEVERE,745.15997,sero-positive,16009.15,sero-positive,Yes,Yes,No,No,No,No,Yes,Yes,17.54,Recovered,1,2
+170,28,Female,67.152618,CRITICAL,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+170,180,Female,67.152618,CRITICAL,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+138,180,Male,56.633606,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+138,14,Male,56.633606,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+138,7,Male,56.633606,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+138,0,Male,56.633606,SEVERE,SEVERE,455.22,sero-positive,4081.6799,sero-positive,Yes,Yes,No,No,No,No,Yes,No,29.22,Recovered,1,2
+138,28,Male,56.633606,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+205,14,Male,43.995426,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+205,0,Male,43.995426,SEVERE,SEVERE,46.360001,sero-negative,931.95001,sero-positive,Yes,Yes,No,No,No,No,Yes,Yes,31.51,Recovered,1,2
+205,28,Male,43.995426,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+205,180,Male,43.995426,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+205,7,Male,43.995426,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+110,180,Female,57.096313,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+110,0,Female,57.096313,MILD,MILD,74.370003,sero-positive,1159.0601,sero-positive,Yes,Yes,No,No,No,No,Yes,No,27.15,Recovered,1,2
+110,7,Female,57.096313,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+110,28,Female,57.096313,MILD,MILD,584.90002,sero-positive,11180.63,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+110,14,Female,57.096313,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+206,180,Male,46.005051,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+206,14,Male,46.005051,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+206,28,Male,46.005051,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+206,7,Male,46.005051,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+206,0,Male,46.005051,SEVERE,SEVERE,1120.14,sero-positive,58077.059,sero-positive,Yes,No,No,No,No,No,Yes,No,32.97,Recovered,1,2
+129,14,Female,49.087936,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+129,0,Female,49.087936,MILD,MILD,1114.21,sero-positive,92107.039,sero-positive,Yes,Yes,No,No,No,No,Yes,No,19.62,Recovered,1,2
+129,7,Female,49.087936,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+129,180,Female,49.087936,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+129,28,Female,49.087936,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+201,0,Male,21,ASYMPTOMATIC,ASYMPTOMATIC,45.669998,sero-negative,601.59998,sero-negative,No,No,NA,NA,NA,NA,No,No,32.16,Recovered,2,2
+201,28,Male,21,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,No,No,NA,NA,NA,NA,No,No,,Recovered,2,2
+201,14,Male,21,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,No,No,NA,NA,NA,NA,No,No,,Recovered,2,2
+201,180,Male,21,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,No,No,NA,NA,NA,NA,No,No,,Recovered,2,2
+201,7,Male,21,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,No,No,NA,NA,NA,NA,No,No,,Recovered,2,2
+303,7,Female,39,MILD,MILD,47.220001,sero-negative,465.47,sero-negative,No,No,No,No,No,No,No,No,,Recovered,2,2
+303,28,Female,39,MILD,MILD,64.220001,sero-negative,428.79999,sero-negative,No,No,No,No,No,No,No,No,,Recovered,2,2
+303,180,Female,39,MILD,MILD,1324,sero-positive,62857.762,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+303,0,Female,39,MILD,MILD,37.110001,sero-negative,304.64001,sero-negative,No,No,No,No,No,No,No,No,29.96095562,Recovered,2,2
+303,14,Female,39,MILD,MILD,45.099998,sero-negative,869.25,sero-negative,No,No,No,No,No,No,No,No,,Recovered,2,2
+273,7,Male,40,SEVERE,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,2,2
+273,180,Male,40,SEVERE,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,2,2
+273,28,Male,40,SEVERE,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,2,2
+273,0,Male,40,SEVERE,MILD,718.38,sero-positive,61163.07,sero-positive,No,No,No,No,No,No,Yes,No,29.6668148,Recovered,2,2
+273,14,Male,40,SEVERE,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,2,2
+137,28,Male,36,MILD,MILD,177.41,sero-positive,1698.75,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+137,0,Male,36,MILD,MILD,40.790001,sero-negative,844.79999,sero-negative,No,No,No,No,No,No,No,No,23.78492928,Recovered,2,2
+137,14,Male,36,MILD,MILD,161.36,sero-positive,4701.0801,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+137,180,Male,36,MILD,MILD,1318,sero-positive,84554.617,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+137,7,Male,36,MILD,MILD,109.13,sero-positive,2320.0601,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+294,0,Male,58,ASYMPTOMATIC,ASYMPTOMATIC,27.889999,sero-negative,249.60001,sero-negative,No,No,No,No,No,No,No,No,21.86154747,Recovered,2,2
+294,28,Male,58,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+294,180,Male,58,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+294,14,Male,58,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+294,7,Male,58,ASYMPTOMATIC,ASYMPTOMATIC,37.209999,sero-negative,492.79999,sero-negative,No,No,No,No,No,No,No,No,,Recovered,2,2
+298,180,Female,29,MILD,MILD,588,sero-positive,22588.189,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+298,7,Female,29,MILD,MILD,1133.63,sero-positive,535602.69,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+298,28,Female,29,MILD,MILD,1027.5,sero-positive,372125.75,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+298,14,Female,29,MILD,MILD,1089.71,sero-positive,433269.25,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+298,0,Female,29,MILD,MILD,1053.27,sero-positive,657482.19,sero-positive,No,No,No,No,No,No,No,No,40,Recovered,2,2
+246,14,Female,29,ASYMPTOMATIC,ASYMPTOMATIC,224.36,sero-positive,4855.04,sero-positive,No,No,No,No,No,No,No,NA,,Recovered,2,2
+246,180,Female,29,ASYMPTOMATIC,ASYMPTOMATIC,101,sero-positive,2432.28,sero-positive,No,No,No,No,No,No,No,NA,,Recovered,2,2
+246,28,Female,29,ASYMPTOMATIC,ASYMPTOMATIC,259.62,sero-positive,4646.21,sero-positive,No,No,No,No,No,No,No,NA,,Recovered,2,2
+246,0,Female,29,ASYMPTOMATIC,ASYMPTOMATIC,57.200001,sero-negative,518.40002,sero-negative,No,No,No,No,No,No,No,NA,29.82403946,Recovered,2,2
+246,7,Female,29,ASYMPTOMATIC,ASYMPTOMATIC,61.639999,sero-negative,4175.5498,sero-positive,No,No,No,No,No,No,No,NA,,Recovered,2,2
+275,14,Male,32,ASYMPTOMATIC,ASYMPTOMATIC,163.53999,sero-positive,1898.62,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+275,7,Male,32,ASYMPTOMATIC,ASYMPTOMATIC,38.450001,sero-negative,3751.3201,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+275,0,Male,32,ASYMPTOMATIC,ASYMPTOMATIC,28.83,sero-negative,198.39999,sero-negative,No,No,No,No,No,No,No,No,22.61634445,Recovered,2,2
+275,180,Male,32,ASYMPTOMATIC,ASYMPTOMATIC,104,sero-positive,874.44,sero-negative,No,No,No,No,No,No,No,No,,Recovered,2,2
+275,28,Male,32,ASYMPTOMATIC,ASYMPTOMATIC,53.349998,sero-negative,3107.0701,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+209,0,Female,43,ASYMPTOMATIC,ASYMPTOMATIC,539.82001,sero-positive,5889.6001,sero-positive,No,No,No,No,No,No,No,No,40,Recovered,2,2
+209,180,Female,43,ASYMPTOMATIC,ASYMPTOMATIC,135,sero-positive,1651.03,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+209,28,Female,43,ASYMPTOMATIC,ASYMPTOMATIC,423.89001,sero-positive,3641.28,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+209,7,Female,43,ASYMPTOMATIC,ASYMPTOMATIC,576.57001,sero-positive,4620.7402,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+209,14,Female,43,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+306,14,Female,24,ASYMPTOMATIC,ASYMPTOMATIC,58.240002,sero-negative,4364.7998,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+306,180,Female,24,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+306,28,Female,24,ASYMPTOMATIC,ASYMPTOMATIC,53.41,sero-negative,2323.2,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+306,0,Female,24,ASYMPTOMATIC,ASYMPTOMATIC,76.839996,sero-positive,1094.4,sero-positive,No,No,No,No,No,No,No,No,36.55571747,Recovered,2,2
+306,7,Female,24,ASYMPTOMATIC,ASYMPTOMATIC,86.43,sero-positive,6421.3101,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+204,180,Female,42,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,2,2
+204,7,Female,42,MILD,MILD,821.34998,sero-positive,27712.58,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,2,2
+204,0,Female,42,MILD,MILD,755.07001,sero-positive,26098.051,sero-positive,No,No,No,No,No,No,Yes,No,40,Recovered,2,2
+204,28,Female,42,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,2,2
+204,14,Female,42,MILD,MILD,885.87,sero-positive,27415.1,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,2,2
+215,28,Female,55,ASYMPTOMATIC,ASYMPTOMATIC,646.19,sero-positive,8928.3799,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+215,7,Female,55,ASYMPTOMATIC,ASYMPTOMATIC,269.23999,sero-positive,2816,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+215,180,Female,55,ASYMPTOMATIC,ASYMPTOMATIC,410,sero-positive,7347.5601,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+215,14,Female,55,ASYMPTOMATIC,ASYMPTOMATIC,470.95999,sero-positive,7491.2598,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+215,0,Female,55,ASYMPTOMATIC,ASYMPTOMATIC,41.299999,sero-negative,2510.3999,sero-positive,No,No,No,No,No,No,No,No,40,Recovered,2,2
+197,14,Female,32,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+197,7,Female,32,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+197,180,Female,32,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+197,0,Female,32,MILD,MILD,32.650002,sero-negative,738.04999,sero-negative,No,No,No,No,No,No,No,No,21.2884407,Recovered,2,2
+197,28,Female,32,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+179,0,Male,69,ASYMPTOMATIC,ASYMPTOMATIC,179.2,sero-positive,1857.02,sero-positive,No,No,No,No,No,No,No,No,36.47259521,Recovered,2,2
+179,7,Male,69,ASYMPTOMATIC,ASYMPTOMATIC,628.42999,sero-positive,34374.078,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+179,180,Male,69,ASYMPTOMATIC,ASYMPTOMATIC,780,sero-positive,1636.12,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+179,14,Male,69,ASYMPTOMATIC,ASYMPTOMATIC,611.44,sero-positive,60094.852,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+179,28,Male,69,ASYMPTOMATIC,ASYMPTOMATIC,530.71997,sero-positive,49125.629,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+198,180,Female,66,MILD,MILD,192,sero-positive,990.69,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+198,28,Female,66,MILD,MILD,324.78,sero-positive,362.94,sero-negative,No,No,No,No,No,No,No,No,,Recovered,2,2
+198,14,Female,66,MILD,MILD,313.73001,sero-positive,550.40002,sero-negative,No,No,No,No,No,No,No,No,,Recovered,2,2
+198,0,Female,66,MILD,MILD,155.77,sero-positive,588.79999,sero-negative,No,No,No,No,No,No,No,No,40,Recovered,2,2
+198,7,Female,66,MILD,MILD,259.47,sero-positive,1029.8199,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+102,14,Male,69,ASYMPTOMATIC,ASYMPTOMATIC,110.46,sero-positive,652.79999,sero-negative,No,No,No,No,No,No,No,No,,Recovered,2,2
+102,7,Male,69,ASYMPTOMATIC,ASYMPTOMATIC,188.64,sero-positive,433.92001,sero-negative,No,No,No,No,No,No,No,No,,Recovered,2,2
+102,180,Male,69,ASYMPTOMATIC,ASYMPTOMATIC,83,sero-positive,346.63,sero-negative,No,No,No,No,No,No,No,No,,Recovered,2,2
+102,0,Male,69,ASYMPTOMATIC,ASYMPTOMATIC,209.34,sero-positive,969.85999,sero-positive,No,No,No,No,No,No,No,No,35.813694,Recovered,2,2
+102,28,Male,69,ASYMPTOMATIC,ASYMPTOMATIC,118.55,sero-positive,97.150002,sero-negative,No,No,No,No,No,No,No,No,,Recovered,2,2
+74,28,Female,21,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+74,0,Female,21,MILD,MILD,170.62,sero-positive,563.20001,sero-negative,No,No,No,No,No,No,No,No,39.07919312,Recovered,2,2
+74,7,Female,21,SEVERE,SEVERE,190.42,sero-positive,403.20001,sero-negative,No,No,No,No,No,No,No,No,,Recovered,2,2
+74,14,Female,21,SEVERE,SEVERE,141.61,sero-positive,454.39999,sero-negative,No,No,No,No,No,No,No,No,,Recovered,2,2
+74,180,Female,21,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+169,180,Female,67,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+169,28,Female,67,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+169,0,Female,67,MILD,MILD,43.830002,sero-negative,172.8,sero-negative,No,No,No,No,No,No,No,No,22.05334091,Recovered,2,2
+169,14,Female,67,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+169,7,Female,67,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+220,180,Female,31,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,2,2
+220,7,Female,31,MILD,MILD,503.75,sero-positive,446.60001,sero-negative,No,No,No,No,No,No,Yes,No,,Recovered,2,2
+220,28,Female,31,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,2,2
+220,0,Female,31,MILD,MILD,585.01001,sero-positive,1086.9301,sero-positive,No,No,No,No,No,No,Yes,No,28.59924316,Recovered,2,2
+220,14,Female,31,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,2,2
+12,28,Female,27,MILD,MILD,194.5,sero-positive,796.85999,sero-negative,No,No,No,No,No,No,No,No,,Recovered,2,2
+12,14,Female,27,MILD,MILD,265.25,sero-positive,1231.9399,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+12,7,Female,27,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+12,0,Female,27,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,38.71018219,Recovered,2,2
+12,180,Female,27,MILD,MILD,140,sero-positive,2495.23,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+277,14,Male,21,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+277,0,Male,21,ASYMPTOMATIC,ASYMPTOMATIC,29.25,sero-negative,132,sero-negative,No,No,No,No,No,No,No,No,23.31093788,Recovered,2,2
+277,28,Male,21,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+277,7,Male,21,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+277,180,Male,21,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+83,7,Female,50,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+83,0,Female,50,MILD,MILD,81.75,sero-positive,110.28,sero-negative,No,No,No,No,No,No,No,No,26.460783,Recovered,2,2
+83,180,Female,50,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+83,14,Female,50,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+83,28,Female,50,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+146,180,Male,44,ASYMPTOMATIC,ASYMPTOMATIC,71,sero-positive,1386.09,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+146,14,Male,44,ASYMPTOMATIC,ASYMPTOMATIC,36.25,sero-negative,161.66,sero-negative,No,No,No,No,No,No,No,No,,Recovered,2,2
+146,28,Male,44,ASYMPTOMATIC,ASYMPTOMATIC,74.5,sero-positive,157.07001,sero-negative,No,No,No,No,No,No,No,No,,Recovered,2,2
+146,0,Male,44,ASYMPTOMATIC,ASYMPTOMATIC,25.5,sero-negative,111.95,sero-negative,No,No,No,No,No,No,No,No,19.64087486,Recovered,2,2
+146,7,Male,44,ASYMPTOMATIC,ASYMPTOMATIC,31.75,sero-negative,325.56,sero-negative,No,No,No,No,No,No,No,No,,Recovered,2,2
+63,180,Female,34,MILD,MILD,1097,sero-positive,575204.06,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,2,2
+63,14,Female,34,MILD,MILD,945.76001,sero-positive,6944.8398,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,2,2
+63,28,Female,34,MILD,MILD,1000.01,sero-positive,7727.0698,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,2,2
+63,0,Female,34,MILD,MILD,31.75,sero-negative,128.66,sero-negative,No,No,No,No,No,No,Yes,No,34.01546097,Recovered,2,2
+63,7,Female,34,MILD,MILD,218,sero-positive,1610.5601,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,2,2
+256,14,Male,63,MILD,MILD,941.76001,sero-positive,11069.74,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+256,180,Male,63,MILD,MILD,1062,sero-positive,66000.273,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+256,0,Male,63,MILD,MILD,40,sero-negative,137.02,sero-negative,No,No,No,No,No,No,No,No,26.14537621,Recovered,2,2
+256,7,Male,63,MILD,MILD,702.76001,sero-positive,7257.5,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+256,28,Male,63,MILD,MILD,804.01001,sero-positive,7324.8398,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+293,14,Female,38,MILD,MILD,395,sero-positive,1504.48,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+293,7,Female,38,MILD,MILD,389,sero-positive,2223.75,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+293,28,Female,38,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+293,180,Female,38,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+293,0,Female,38,MILD,MILD,135.25,sero-positive,681.52002,sero-negative,No,No,No,No,No,No,No,No,40.18438721,Recovered,2,2
+65,0,Male,33,ASYMPTOMATIC,ASYMPTOMATIC,99,sero-positive,3145.4399,sero-positive,No,No,No,No,No,No,No,No,38.45655441,Recovered,2,2
+65,14,Male,33,ASYMPTOMATIC,ASYMPTOMATIC,117,sero-positive,1336.83,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+65,180,Male,33,ASYMPTOMATIC,ASYMPTOMATIC,1355,sero-positive,540770.81,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+65,28,Male,33,ASYMPTOMATIC,ASYMPTOMATIC,106,sero-positive,1245.79,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+65,7,Male,33,ASYMPTOMATIC,ASYMPTOMATIC,73,sero-positive,2003.8199,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+171,7,Female,60,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+171,28,Female,60,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+171,180,Female,60,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+171,0,Female,60,MILD,MILD,31.25,sero-negative,199.36,sero-negative,No,No,No,No,No,No,No,No,27.32122612,Recovered,2,2
+171,14,Female,60,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+15,7,Female,33,MILD,MILD,25.75,sero-negative,142.03,sero-negative,No,No,No,No,No,No,No,No,,Recovered,2,2
+15,28,Female,33,MILD,MILD,294.5,sero-positive,323.73001,sero-negative,No,No,No,No,No,No,No,No,,Recovered,2,2
+15,14,Female,33,MILD,MILD,115.75,sero-positive,153,sero-negative,No,No,No,No,No,No,No,No,,Recovered,2,2
+15,180,Female,33,MILD,MILD,1167,sero-positive,45645.969,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+15,0,Female,33,MILD,MILD,28,sero-negative,126.99,sero-negative,No,No,No,No,No,No,No,No,27.1748085,Recovered,2,2
+95,0,Male,40,MILD,MILD,966.01001,sero-positive,17085.221,sero-positive,No,No,No,No,No,No,No,No,40,Recovered,2,2
+95,14,Male,40,MILD,MILD,1000.01,sero-positive,58577.141,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+95,7,Male,40,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+95,180,Male,40,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+95,28,Male,40,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+150,28,Female,29,MILD,MILD,257,sero-positive,1817.88,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+150,0,Female,29,MILD,MILD,339,sero-positive,664.13,sero-negative,No,No,No,No,No,No,No,No,40,Recovered,2,2
+150,7,Female,29,MILD,MILD,280,sero-positive,606.45001,sero-negative,No,No,No,No,No,No,No,No,,Recovered,2,2
+150,180,Female,29,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+150,14,Female,29,MILD,MILD,370,sero-positive,1820.58,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+64,28,Male,61,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,2,2
+64,0,Male,61,MILD,MILD,218,sero-positive,455.89001,sero-negative,No,No,No,No,No,No,Yes,No,38.99556351,Recovered,2,2
+64,180,Male,61,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,2,2
+64,14,Male,61,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,2,2
+64,7,Male,61,MILD,MILD,282,sero-positive,4431.2598,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,2,2
+164,14,Male,54,ASYMPTOMATIC,ASYMPTOMATIC,861,sero-positive,13649.05,sero-positive,Yes,No,No,No,No,No,No,No,,Recovered,2,2
+164,0,Male,54,ASYMPTOMATIC,ASYMPTOMATIC,820,sero-positive,14225.07,sero-positive,No,No,No,No,No,No,No,No,40,Recovered,2,2
+164,28,Male,54,ASYMPTOMATIC,ASYMPTOMATIC,757,sero-positive,8978.7803,sero-positive,Yes,No,No,No,No,No,No,No,,Recovered,2,2
+164,180,Male,54,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,Yes,No,No,No,No,No,No,No,,Recovered,2,2
+164,7,Male,54,ASYMPTOMATIC,ASYMPTOMATIC,890,sero-positive,20075.59,sero-positive,Yes,No,No,No,No,No,No,No,,Recovered,2,2
+178,28,Male,28,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+178,14,Male,28,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+178,180,Male,28,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+178,0,Male,28,ASYMPTOMATIC,ASYMPTOMATIC,409,sero-positive,227.60001,sero-negative,No,No,No,No,No,No,No,No,37.47392654,Recovered,2,2
+178,7,Male,28,ASYMPTOMATIC,ASYMPTOMATIC,1039,sero-positive,28976.109,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+235,14,Male,40,ASYMPTOMATIC,ASYMPTOMATIC,1358,sero-positive,205981.14,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+235,0,Male,40,ASYMPTOMATIC,ASYMPTOMATIC,1208,sero-positive,157073.8,sero-positive,No,No,No,No,No,No,No,No,40,Recovered,2,2
+235,28,Male,40,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+235,180,Male,40,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+235,7,Male,40,ASYMPTOMATIC,ASYMPTOMATIC,1261,sero-positive,142073.8,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+147,28,Male,23,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+147,180,Male,23,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+147,7,Male,23,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+147,0,Male,23,MILD,MILD,251,sero-positive,1310.03,sero-positive,No,No,No,No,No,No,No,No,40,Recovered,2,2
+147,14,Male,23,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+185,14,Male,67,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+185,7,Male,67,MILD,MILD,1384,sero-positive,186331.77,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+185,0,Male,67,MILD,MILD,788,sero-positive,26224.49,sero-positive,No,No,No,No,No,No,No,No,24.07281494,Recovered,2,2
+185,28,Male,67,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+185,180,Male,67,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+131,14,Female,62,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+131,7,Female,62,ASYMPTOMATIC,ASYMPTOMATIC,1389,sero-positive,196981.14,sero-positive,No,No,No,No,No,No,No,No,,Recovered,2,2
+131,180,Female,62,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+131,0,Female,62,ASYMPTOMATIC,ASYMPTOMATIC,1323,sero-positive,174981.14,sero-positive,No,No,No,No,No,No,No,No,33.7807312,Recovered,2,2
+131,28,Female,62,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+141,14,Female,35,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+141,0,Female,35,ASYMPTOMATIC,ASYMPTOMATIC,1141,sero-positive,98206.961,sero-positive,No,No,No,No,No,No,No,No,40.26838303,Recovered,2,2
+141,180,Female,35,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+141,28,Female,35,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+141,7,Female,35,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,No,No,No,No,No,No,No,No,,Recovered,2,2
+10,28,Female,51,SEVERE,SEVERE,1103.01,sero-positive,78055.773,sero-positive,Yes,Yes,NA,NA,NA,NA,Yes,No,,Recovered,1,2
+10,14,Female,51,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,NA,NA,NA,NA,Yes,No,,Recovered,1,2
+10,180,Female,51,SEVERE,SEVERE,899,sero-positive,33297.711,sero-positive,Yes,Yes,NA,NA,NA,NA,Yes,No,,Recovered,1,2
+10,0,Female,51,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,NA,NA,NA,NA,Yes,No,33.07,Recovered,1,2
+10,7,Female,51,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,NA,NA,NA,NA,Yes,No,,Recovered,1,2
+266,7,Female,24,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,NA,NA,No,No,No,No,Yes,No,,Recovered,1,2
+266,14,Female,24,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,NA,NA,No,No,No,No,Yes,No,,Recovered,1,2
+266,28,Female,24,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,NA,NA,No,No,No,No,Yes,No,,Recovered,1,2
+266,0,Female,24,ASYMPTOMATIC,ASYMPTOMATIC,196,sero-positive,7362.4502,sero-positive,NA,NA,No,No,No,No,No,No,NA,Recovered,1,2
+266,180,Female,24,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,NA,NA,No,No,No,No,Yes,No,,Recovered,1,2
+121,7,Male,49,SEVERE,SEVERE,912.76001,sero-positive,61814.73,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+121,28,Male,49,SEVERE,SEVERE,1129.26,sero-positive,128521.06,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+121,14,Male,49,SEVERE,SEVERE,979.35999,sero-positive,69158.828,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+121,0,Male,49,SEVERE,SEVERE,951.63,sero-positive,64178.531,sero-positive,No,No,No,No,No,No,Yes,No,22.6,Recovered,1,2
+121,180,Male,49,SEVERE,SEVERE,1097,sero-positive,76757.352,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+31,7,Female,32,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,NA,NA,NA,NA,NA,NA,Yes,No,,Recovered,1,2
+31,28,Female,32,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,NA,NA,NA,NA,NA,NA,Yes,No,,Recovered,1,2
+31,180,Female,32,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,NA,NA,NA,NA,NA,NA,Yes,No,,Recovered,1,2
+31,14,Female,32,ASYMPTOMATIC,ASYMPTOMATIC,621,sero-positive,8879.96,sero-positive,NA,NA,NA,NA,NA,NA,Yes,No,,Recovered,1,2
+31,0,Female,32,ASYMPTOMATIC,ASYMPTOMATIC,397,sero-positive,3641.9399,sero-positive,NA,NA,NA,NA,NA,NA,No,No,NA,Recovered,1,2
+302,0,Male,51,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,28.27,Recovered,1,2
+302,180,Male,51,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+302,28,Male,51,SEVERE,SEVERE,817.98999,sero-positive,25208.15,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+302,14,Male,51,SEVERE,SEVERE,867.67999,sero-positive,17486.43,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+302,7,Male,51,SEVERE,SEVERE,359.39999,sero-positive,3309.3899,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+234,14,Female,38,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,NA,NA,NA,NA,NA,NA,Yes,No,,Recovered,1,2
+234,28,Female,38,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,NA,NA,NA,NA,NA,NA,Yes,No,,Recovered,1,2
+234,7,Female,38,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,NA,NA,NA,NA,NA,NA,Yes,No,,Recovered,1,2
+234,180,Female,38,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,NA,NA,NA,NA,NA,NA,Yes,No,,Recovered,1,2
+234,0,Female,38,ASYMPTOMATIC,ASYMPTOMATIC,31,sero-negative,734,sero-negative,NA,NA,NA,NA,NA,NA,No,No,NA,Recovered,1,2
+187,7,Female,38,MODERATE,MODERATE,759.65002,sero-positive,23953.16,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+187,14,Female,38,MODERATE,MODERATE,947.10999,sero-positive,30459.881,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+187,0,Female,38,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,37.96,Recovered,1,2
+187,180,Female,38,MODERATE,MODERATE,494,sero-positive,24689.961,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+187,28,Female,38,MODERATE,MODERATE,797.71997,sero-positive,26012.109,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+35,7,Male,28,MODERATE,MODERATE,51.450001,sero-negative,2318.6599,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,3
+35,14,Male,28,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,3
+35,0,Male,28,MODERATE,MODERATE,27.950001,sero-negative,403.98001,sero-negative,No,No,No,No,No,No,Yes,No,21.89999962,Recovered,1,3
+35,28,Male,28,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,3
+35,180,Male,28,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,3
+144,180,Male,58,MODERATE,MODERATE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+144,0,Male,58,MODERATE,MODERATE,41.049999,sero-negative,6655.8901,sero-positive,No,Yes,No,No,No,No,Yes,No,18.72,Recovered,1,2
+144,7,Male,58,MODERATE,MODERATE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+144,28,Male,58,MODERATE,MODERATE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+144,14,Male,58,MODERATE,MODERATE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+39,28,Male,52,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+39,180,Male,52,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+39,7,Male,52,SEVERE,SEVERE,1002.44,sero-positive,18191.109,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+39,14,Male,52,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+39,0,Male,52,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+288,180,Male,29,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,NA,NA,NA,NA,NA,NA,Yes,No,,Recovered,1,2
+288,28,Male,29,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,NA,NA,NA,NA,NA,NA,Yes,No,,Recovered,1,2
+288,0,Male,29,ASYMPTOMATIC,ASYMPTOMATIC,743,sero-positive,8206.7998,sero-positive,NA,NA,NA,NA,NA,NA,No,No,NA,Recovered,1,2
+288,14,Male,29,ASYMPTOMATIC,ASYMPTOMATIC,0,No sample,0,No sample,NA,NA,NA,NA,NA,NA,Yes,No,,Recovered,1,2
+288,7,Male,29,ASYMPTOMATIC,ASYMPTOMATIC,847,sero-positive,14831.11,sero-positive,NA,NA,NA,NA,NA,NA,Yes,No,,Recovered,1,2
+181,180,Male,54,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+181,14,Male,54,MODERATE,MODERATE,325.94,sero-positive,13612.33,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+181,28,Male,54,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+181,0,Male,54,MODERATE,MODERATE,38.200001,sero-negative,357.26999,sero-negative,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+181,7,Male,54,MODERATE,MODERATE,52.189999,sero-negative,716.96002,sero-negative,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+168,28,Male,43,SEVERE,SEVERE,48.669998,sero-negative,780.79999,sero-negative,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+168,14,Male,43,SEVERE,SEVERE,96.209999,sero-positive,1312,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+168,180,Male,43,SEVERE,SEVERE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+168,0,Male,43,SEVERE,SEVERE,39.189999,sero-negative,83.199997,sero-negative,No,Yes,No,No,No,No,Yes,No,19.10000038,Recovered,1,2
+168,7,Male,43,SEVERE,SEVERE,77.160004,sero-positive,985.59998,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+45,28,Female,45,MODERATE,MODERATE,558.22998,sero-positive,34530.66,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+45,180,Female,45,MODERATE,MODERATE,683,sero-positive,27614.43,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+45,0,Female,45,MODERATE,MODERATE,109.98,sero-positive,271.48001,sero-negative,No,Yes,No,No,No,No,Yes,No,26.85000038,Recovered,1,2
+45,14,Female,45,MODERATE,MODERATE,764.03998,sero-positive,18872.801,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+45,7,Female,45,MODERATE,MODERATE,659.65997,sero-positive,7368.5898,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+24,28,Male,32,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+24,7,Male,32,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+24,180,Male,32,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+24,14,Male,32,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+24,0,Male,32,MODERATE,MODERATE,155.83,sero-positive,10129.79,sero-positive,No,No,No,No,No,No,Yes,No,31.95,Recovered,1,2
+124,0,Male,58,SEVERE,SEVERE,348.16,sero-positive,22899.529,sero-positive,Yes,Yes,No,No,No,No,Yes,No,28.5,Recovered,1,2
+124,7,Male,58,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+124,14,Male,58,SEVERE,SEVERE,1112.52,sero-positive,126273.49,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+124,180,Male,58,SEVERE,SEVERE,1097,sero-positive,480311.5,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+124,28,Male,58,SEVERE,SEVERE,1178.34,sero-positive,96776.289,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+295,180,Male,69,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,3
+295,28,Male,69,MILD,MILD,762.91998,sero-positive,39702,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,3
+295,0,Male,69,MILD,MILD,335.60999,sero-positive,6151.8901,sero-positive,No,No,No,No,No,No,Yes,No,24.3,Recovered,1,3
+295,14,Male,69,MILD,MILD,659.56,sero-positive,51990.289,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,3
+295,7,Male,69,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,3
+292,14,Male,54,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+292,180,Male,54,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+292,28,Male,54,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+292,0,Male,54,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,33.01,Recovered,1,2
+292,7,Male,54,SEVERE,SEVERE,423.75,sero-positive,4477.52,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+274,7,Male,72,SEVERE,SEVERE,107.96,sero-positive,390.39999,sero-negative,Yes,Yes,No,No,No,No,Yes,Yes,,Died,1,2
+274,14,Male,72,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Died,1,2
+274,0,Male,72,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,17.29,Died,1,2
+274,28,Male,72,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Died,1,2
+274,180,Male,72,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Died,1,2
+16,0,Female,39,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,18.64999962,Recovered,1,2
+16,7,Female,39,MODERATE,MODERATE,53.119999,sero-negative,1404.13,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+16,14,Female,39,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+16,180,Female,39,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+16,28,Female,39,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+80,14,Male,34,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+80,0,Male,34,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,35.06999969,Recovered,1,2
+80,7,Male,34,MILD,MILD,496.88,sero-positive,4585.6401,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+80,180,Male,34,MILD,MILD,1097,sero-positive,140787.61,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+80,28,Male,34,MILD,MILD,670.39001,sero-positive,10522.94,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+191,7,Female,58,SEVERE,SEVERE,432.91,sero-positive,21920.461,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+191,14,Female,58,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+191,28,Female,58,SEVERE,SEVERE,579.20001,sero-positive,29621.961,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+191,0,Female,58,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,26.56999969,Recovered,1,2
+191,180,Female,58,SEVERE,SEVERE,1097,sero-positive,97908.18,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+68,7,Female,54,SEVERE,SEVERE,268.56,sero-positive,4683.2998,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+68,14,Female,54,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+68,28,Female,54,SEVERE,SEVERE,549.67999,sero-positive,10857.6,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+68,180,Female,54,SEVERE,SEVERE,1097,sero-positive,119330.61,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+68,0,Female,54,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,21.29,Recovered,1,2
+237,7,Male,68,SEVERE,SEVERE,854.58002,sero-positive,32490.16,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Died,1,2
+237,0,Male,68,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,22.7,Died,1,2
+237,180,Male,68,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Died,1,2
+237,14,Male,68,SEVERE,SEVERE,306.79001,sero-positive,3903.8401,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Died,1,2
+237,28,Male,68,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Died,1,2
+136,0,Male,61,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+136,14,Male,61,SEVERE,SEVERE,838.32001,sero-positive,78577.477,sero-positive,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+136,28,Male,61,SEVERE,SEVERE,1053.67,sero-positive,69925.398,sero-positive,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+136,7,Male,61,SEVERE,SEVERE,922.90997,sero-positive,68408.742,sero-positive,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+136,180,Male,61,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+203,180,Female,56,SEVERE,SEVERE,1097,sero-positive,181523.58,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+203,14,Female,56,SEVERE,SEVERE,231.67999,sero-positive,21995.449,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+203,7,Female,56,SEVERE,SEVERE,237.14999,sero-positive,7826.0801,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+203,28,Female,56,SEVERE,SEVERE,464,sero-positive,27504.66,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+203,0,Female,56,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,13.36,Recovered,1,2
+145,180,Female,33,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+145,14,Female,33,MODERATE,MODERATE,691.07001,sero-positive,9609.3398,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+145,28,Female,33,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+145,0,Female,33,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,19.49,Recovered,1,2
+145,7,Female,33,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+262,28,Female,48,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+262,14,Female,48,SEVERE,SEVERE,869.37,sero-positive,22459.23,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+262,7,Female,48,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+262,0,Female,48,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,24.7,Recovered,1,2
+262,180,Female,48,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+29,180,Male,28,SEVERE,SEVERE,1097,sero-positive,61597.25,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+29,28,Male,28,SEVERE,SEVERE,498.82999,sero-positive,42318.762,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+29,14,Male,28,SEVERE,SEVERE,532.58002,sero-positive,42983.32,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+29,7,Male,28,SEVERE,SEVERE,690.10999,sero-positive,45083.148,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+29,0,Male,28,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+11,7,Male,55,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+11,0,Male,55,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,17.18,Recovered,1,2
+11,180,Male,55,SEVERE,SEVERE,276,sero-positive,6320.2998,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+11,14,Male,55,SEVERE,SEVERE,91.410004,sero-positive,3403.6799,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+11,28,Male,55,SEVERE,SEVERE,390.94,sero-positive,14501.73,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+167,0,Male,32,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,17.96,Recovered,1,2
+167,180,Male,32,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+167,14,Male,32,MODERATE,MODERATE,582.23999,sero-positive,8563.8799,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+167,28,Male,32,MODERATE,MODERATE,788.71997,sero-positive,19014.939,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+167,7,Male,32,MODERATE,MODERATE,355.42999,sero-positive,11647.81,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+28,180,Male,45,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+28,28,Male,45,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+28,7,Male,45,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+28,14,Male,45,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+28,0,Male,45,MILD,MILD,117.86,sero-positive,3044.78,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+208,7,Male,56,SEVERE,SEVERE,388.47,sero-positive,4852.3701,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+208,28,Male,56,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+208,14,Male,56,SEVERE,SEVERE,689.82001,sero-positive,9945.3496,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+208,0,Male,56,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,14.45,Recovered,1,2
+208,180,Male,56,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+223,180,Female,32,MODERATE,MODERATE,601,sero-positive,20768.33,sero-positive,No,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+223,14,Female,32,MODERATE,MODERATE,0,No sample,0,No sample,No,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+223,28,Female,32,MODERATE,MODERATE,756,sero-positive,19317.029,sero-positive,No,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+223,7,Female,32,MODERATE,MODERATE,32.080002,sero-negative,288,sero-negative,No,No,Yes,No,No,No,Yes,No,,Recovered,1,2
+223,0,Female,32,MODERATE,MODERATE,0,No sample,0,No sample,No,No,Yes,No,No,No,Yes,No,28.28,Recovered,1,2
+165,28,Female,50,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+165,7,Female,50,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+165,180,Female,50,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+165,14,Female,50,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+165,0,Female,50,SEVERE,SEVERE,88.019997,sero-positive,3642.1101,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+9,7,Female,58,SEVERE,SEVERE,951.02002,sero-positive,516571.56,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+9,0,Female,58,SEVERE,SEVERE,594.40997,sero-positive,502321.34,sero-positive,Yes,Yes,No,No,No,No,Yes,No,31.29,Recovered,1,2
+9,14,Female,58,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+9,180,Female,58,SEVERE,SEVERE,1097,sero-positive,575204.06,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+9,28,Female,58,SEVERE,SEVERE,804.57001,sero-positive,577543.5,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+264,14,Male,70,SEVERE,SEVERE,520.34998,sero-positive,14731.71,sero-positive,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+264,28,Male,70,SEVERE,SEVERE,556.40002,sero-positive,6472.0698,sero-positive,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+264,0,Male,70,SEVERE,SEVERE,20.17,sero-negative,883.20001,sero-negative,Yes,Yes,No,No,No,No,Yes,Yes,20.3,Recovered,1,2
+264,7,Male,70,SEVERE,SEVERE,124.07,sero-positive,2255.78,sero-positive,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+264,180,Male,70,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,Yes,,Recovered,1,2
+105,180,Male,59,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,Yes,,Recovered,1,2
+105,0,Male,59,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,Yes,,Recovered,1,2
+105,28,Male,59,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,Yes,,Recovered,1,2
+105,7,Male,59,SEVERE,SEVERE,53.41,sero-negative,1664,sero-positive,No,No,No,No,No,No,Yes,Yes,,Recovered,1,2
+105,14,Male,59,SEVERE,SEVERE,163,sero-positive,7657.1802,sero-positive,No,No,No,No,No,No,Yes,Yes,,Recovered,1,2
+152,7,Male,41,SEVERE,SEVERE,308.42999,sero-positive,3663.3501,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+152,0,Male,41,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+152,28,Male,41,SEVERE,SEVERE,863.60999,sero-positive,9452.8799,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+152,14,Male,41,SEVERE,SEVERE,0,No sample,0,No sample,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+152,180,Male,41,SEVERE,SEVERE,1097,sero-positive,471319.38,sero-positive,Yes,No,No,No,No,No,Yes,No,,Recovered,1,2
+260,28,Male,61,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,1
+260,0,Male,61,MILD,MILD,168.78999,sero-positive,2797.4399,sero-positive,No,No,No,No,No,No,Yes,No,26.35,Recovered,1,1
+260,14,Male,61,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,1
+260,180,Male,61,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,1
+260,7,Male,61,MILD,MILD,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,1
+297,0,Male,52,MODERATE,MODERATE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+297,180,Male,52,MODERATE,MODERATE,1097,sero-positive,117106.6,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+297,14,Male,52,MODERATE,MODERATE,515.81,sero-positive,20740.74,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+297,28,Male,52,MODERATE,MODERATE,701.94,sero-positive,25723.711,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+297,7,Male,52,MODERATE,MODERATE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+41,0,Male,35,SEVERE,SEVERE,133.25999,sero-positive,12854.46,sero-positive,Yes,Yes,No,No,No,No,Yes,No,21.36,Recovered,1,1
+41,180,Male,35,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,1
+41,7,Male,35,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,1
+41,14,Male,35,SEVERE,SEVERE,1086.77,sero-positive,123088.84,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,1
+41,28,Male,35,SEVERE,SEVERE,1053.51,sero-positive,63863.039,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,1
+261,14,Male,64,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+261,0,Male,64,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+261,28,Male,64,SEVERE,SEVERE,1015.97,sero-positive,32287.68,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+261,7,Male,64,SEVERE,SEVERE,598.33002,sero-positive,10882.18,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+261,180,Male,64,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+25,28,Female,50,MILD,MILD,937.60999,sero-positive,94005.133,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+25,0,Female,50,MILD,MILD,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,30.5,Recovered,1,2
+25,7,Female,50,MILD,MILD,676.81,sero-positive,32209.859,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+25,180,Female,50,MILD,MILD,1097,sero-positive,119953.88,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+25,14,Female,50,MILD,MILD,1033.36,sero-positive,97753.539,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+281,28,Male,49,MODERATE,MODERATE,895.54999,sero-positive,18005.949,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,1
+281,0,Male,49,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,17.51,Recovered,1,1
+281,7,Male,49,MODERATE,MODERATE,105.21,sero-positive,4061.1799,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,1
+281,180,Male,49,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,1
+281,14,Male,49,MODERATE,MODERATE,578.96997,sero-positive,13536.64,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,1
+290,14,Male,52,MODERATE,MODERATE,969.69,sero-positive,20675.971,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+290,180,Male,52,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+290,0,Male,52,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,32.97000122,Recovered,1,2
+290,7,Male,52,MODERATE,MODERATE,916.89001,sero-positive,18594.369,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+290,28,Male,52,MODERATE,MODERATE,907.96002,sero-positive,19823.49,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+97,28,Male,53,MILD,MILD,821.40997,sero-positive,50518.34,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,1
+97,7,Male,53,MILD,MILD,66.949997,sero-negative,3446.72,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,1
+97,180,Male,53,MILD,MILD,358,sero-positive,12218.74,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,1
+97,0,Male,53,MILD,MILD,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,26.55999947,Recovered,1,1
+97,14,Male,53,MILD,MILD,771.89001,sero-positive,34072.191,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,1
+309,180,Male,46,MODERATE,MODERATE,1063,sero-positive,90697.023,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+309,0,Male,46,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+309,14,Male,46,MODERATE,MODERATE,616.81,sero-positive,19880.51,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+309,7,Male,46,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+309,28,Male,46,MODERATE,MODERATE,679.59998,sero-positive,15320.45,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+42,0,Male,58,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,20.76,Recovered,1,2
+42,7,Male,58,MODERATE,MODERATE,1009.2,sero-positive,62169.789,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+42,28,Male,58,MODERATE,MODERATE,1104.52,sero-positive,58998.609,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+42,180,Male,58,MODERATE,MODERATE,1097,sero-positive,77284.18,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+42,14,Male,58,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+219,180,Female,45,SEVERE,SEVERE,1097,sero-positive,551225.06,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+219,0,Female,45,SEVERE,SEVERE,65.730003,sero-negative,3295.55,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+219,28,Female,45,SEVERE,SEVERE,639.23999,sero-positive,9040.6396,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+219,7,Female,45,SEVERE,SEVERE,269.45001,sero-positive,3596.8,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+219,14,Female,45,SEVERE,SEVERE,350.73001,sero-positive,9851.0703,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+100,28,Male,59,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+100,180,Male,59,SEVERE,SEVERE,978,sero-positive,62625.77,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+100,0,Male,59,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,18.29,Recovered,1,2
+100,14,Male,59,SEVERE,SEVERE,228.85001,sero-positive,4841.2798,sero-positive,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+100,7,Male,59,SEVERE,SEVERE,0,No sample,0,No sample,Yes,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+132,28,Female,32,MODERATE,MODERATE,177.89999,sero-positive,691.20001,sero-negative,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+132,0,Female,32,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,15.88,Recovered,1,2
+132,180,Female,32,MODERATE,MODERATE,729,sero-positive,8639.3701,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+132,14,Female,32,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+132,7,Female,32,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+61,180,Male,38,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,1
+61,14,Male,38,MODERATE,MODERATE,1097,sero-positive,570232.81,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,1
+61,7,Male,38,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,1
+61,0,Male,38,MODERATE,MODERATE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,24.1,Recovered,1,1
+61,28,Male,38,MODERATE,MODERATE,1097,sero-positive,520300.91,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,1
+98,7,Male,56,MODERATE,MODERATE,454,sero-positive,2063,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+98,28,Male,56,MODERATE,MODERATE,799,sero-positive,5101.3599,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+98,180,Male,56,MODERATE,MODERATE,0,No sample,0,No sample,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+98,0,Male,56,MODERATE,MODERATE,43,sero-negative,896.34998,sero-negative,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+98,14,Male,56,MODERATE,MODERATE,851,sero-positive,7084.1099,sero-positive,No,Yes,No,No,No,No,Yes,No,,Recovered,1,2
+249,14,Female,46,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+249,0,Female,46,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,18.9,Recovered,1,2
+249,7,Female,46,SEVERE,SEVERE,161,sero-positive,1450.85,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+249,180,Female,46,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+249,28,Female,46,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+258,14,Male,68,SEVERE,SEVERE,1097,sero-positive,508384.5,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+258,28,Male,68,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+258,0,Male,68,SEVERE,SEVERE,1097,sero-positive,480896.34,sero-positive,No,No,No,No,No,No,Yes,No,24.34,Recovered,1,2
+258,7,Male,68,SEVERE,SEVERE,1097,sero-positive,540770.81,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+258,180,Male,68,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,2
+177,7,Male,41,SEVERE,SEVERE,426,sero-positive,6136.1401,sero-positive,No,No,No,No,No,No,Yes,Yes,,Recovered,1,2
+177,180,Male,41,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,Yes,,Recovered,1,2
+177,14,Male,41,SEVERE,SEVERE,509,sero-positive,4369.3398,sero-positive,No,No,No,No,No,No,Yes,Yes,,Recovered,1,2
+177,0,Male,41,SEVERE,SEVERE,38,sero-negative,736.34003,sero-negative,No,No,No,No,No,No,Yes,Yes,23.54,Recovered,1,2
+177,28,Male,41,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,Yes,,Recovered,1,2
+37,180,Male,56,SEVERE,SEVERE,0,No sample,0,No sample,No,No,No,No,No,No,Yes,No,,Recovered,1,3
+37,7,Male,56,SEVERE,SEVERE,685,sero-positive,15248.09,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,3
+37,14,Male,56,SEVERE,SEVERE,968,sero-positive,22894.199,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,3
+37,28,Male,56,SEVERE,SEVERE,763,sero-positive,13619.6,sero-positive,No,No,No,No,No,No,Yes,No,,Recovered,1,3
+37,0,Male,56,SEVERE,SEVERE,25,sero-negative,706.13,sero-negative,No,No,No,No,No,No,Yes,No,,Recovered,1,3

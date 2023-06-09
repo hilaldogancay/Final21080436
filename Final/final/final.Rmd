@@ -1,7 +1,7 @@
 ---
 title: "Çalışmanızın Başlığı"
 author: 
-  - İsim Soyisim[^1]
+  - Hilal DOĞANÇAY[^1]
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa-tr.csl
 header-includes:
