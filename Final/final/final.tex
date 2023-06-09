@@ -1,0 +1,292 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  12pt,
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.77,0.63,0.00}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newlength{\cslentryspacingunit} % times entry-spacing
+\setlength{\cslentryspacingunit}{\parskip}
+\newenvironment{CSLReferences}[2] % #1 hanging-ident, #2 entry spacing
+ {% don't indent paragraphs
+  \setlength{\parindent}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1
+  \let\oldpar\par
+  \def\par{\hangindent=\cslhangindent\oldpar}
+  \fi
+  % set entry spacing
+  \setlength{\parskip}{#2\cslentryspacingunit}
+ }%
+ {}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{#1\hfill\break}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{#1}\break}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+\usepackage{polyglossia}
+\setmainlanguage{turkish}
+\usepackage{booktabs}
+\usepackage{caption}
+\captionsetup[table]{skip=10pt}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Çalışmanızın Başlığı},
+  pdfauthor={Hilal DOĞANÇAY},
+  colorlinks=true,
+  linkcolor={Maroon},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={blue},
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Çalışmanızın Başlığı}
+\author{Hilal DOĞANÇAY\footnote{Öğrenci Numarası, \href{https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ}{Github Repo}}}
+\date{}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+Bu bölümde çalışmanızın özetini yazınız.
+\end{abstract}
+
+\hypertarget{final-hakkux131nda-uxf6nemli-bilgiler}{%
+\section{Final Hakkında Önemli Bilgiler}\label{final-hakkux131nda-uxf6nemli-bilgiler}}
+
+\colorbox{BurntOrange}{GITHUB REPO BAĞLANTINIZI BU DOSYANIN 37. SATIRINA YAZINIZ!}
+
+\textbf{Proje gönderimi, Github repo linki ile birlikte ekampus sistemine bir zip dosyası yüklenerek yapılacaktır. Sisteme zip dosyası yüklemezseniz ve Github repo linki vermezseniz ara sınav ve final sınavlarına girmemiş sayılırsınız.}
+
+\textbf{Proje klasörünüzü sıkıştırdıktan sonra (\texttt{OgrenciNumarasi.zip} dosyası) 9 Haziran 2023 23:59'a kadar \emph{ekampus.ankara.edu.tr} adresine yüklemeniz gerekmektedir.}
+
+\colorbox{WildStrawberry}{Daha fazla bilgi için proje klasöründeki README.md dosyasını okuyunuz.}
+
+\hypertarget{giriux15f}{%
+\section{Giriş}\label{giriux15f}}
+
+Bu taslak size proje ödevinizi yazarken yardımcı olması amacıyla oluşturulmuştur. Ödevlerinizde, makalelerinizde, sunumlarınızda ve projelerinizde kullandığınız tüm bilgi kaynaklarına atıfta bulunmalısınız. Alıntı ve gönderme yapmak okuyuculara çalışmanızda kullandığınız/başvurduğunuz kaynaklara ulaşma imkanı sağlar. \textbf{Her ne kadar kendi sözlerinizi kullanıyor olsanız da, başkalarına ait fikirleri çalışmanızda aktarıyorsanız bu fikirlerin kaynağını belgelemek zorundasınız. Aksi takdirde akademik intihal yapmış olursunuz.} Yazım konusunda Aydınonat (\protect\hyperlink{ref-aydinonat:2007}{2007})'ye başvurabilirsiniz.
+
+Proje ödevinizde yer alan başlıkların bu metinde yer alan başlıkları kesinlikle içermesi gerekmektedir. Burada kullanılan başlıklar haricinde farklı alt başlıklar da kullanabilirsiniz. Projenizi yazarken bu dosyayı taslak olarak kullanıp içeriğini projenize uyarlayınız.
+
+\hypertarget{uxe7alux131ux15fmanux131n-amacux131}{%
+\subsection{Çalışmanın Amacı}\label{uxe7alux131ux15fmanux131n-amacux131}}
+
+Araştırma, farklı derecelerde COVID-19 şiddetine sahip Kenyalı hastalarda doğal olarak indüklenen bağlanma ve nötralize edici anti-SARS-CoV-2 antikor seviyelerinin ve potansiyellerinin kinetiğini incelemeyi amaçlamaktadır. Bu bağlamda, hastalığın şiddeti ve yaş ile anti-SARS-CoV-2 antikor yanıtı arasında bir ilişki olup olmadığı ve bu antikorların virüsle etkileşim potansiyellerinin hastalık seyrine etkisi araştırılacaktır. Bu çalışmanın COVID-19 antikor yanıtının yaşla ve hastalığın şiddeti ile bir ilgisi varsa alınması gereken önlemlerde veya tedavi etme sürecine etkileri olabilir. Veri setimi Harvard Üniversitesi datalarından buldum.
+
+\hypertarget{literatuxfcr}{%
+\subsection{Literatür}\label{literatuxfcr}}
+
+SARS-CoV-2 enfeksiyonu geçiren çocuklar ve yetişkinler arasındaki antikor yanıtlarının farklılıklarını araştırmaktadır. Çalışma, çocuk ve yetişkinlerin COVID-19 klinik spektrumunda yer alan farklı hastalık şiddeti ve semptomlarla ilişkili olarak nasıl farklı antikor tepkileri sergilediğini incelemektedir.Bu tür çalışmalar, farklı yaş grupları arasındaki immunolojik yanıtların anlaşılmasına ve özellikle çocukların COVID-19 enfeksiyonuyla başa çıkmalarındaki farklılıkların ortaya konmasına yardımcı olabilir. Araştırma sonuçları, hastalığın etiyolojisi, immünolojik mekanizmaları ve tedavi stratejileri hakkında daha fazla bilgi sağlayabilir.
+
+\hypertarget{veri}{%
+\section{Veri}\label{veri}}
+
+Bu bölümde çalışmanızda kullandığınız veri setinin kaynağını, ham veri üzerinde herhangi bir işlem yaptıysanız bu işlemleri ve veri seti ile ilgili özet istatistikleri tartışınız. Bu bölümde tüm değişkenlere ait özet istatistikleri (ortalama, standart sapma, minimum, maksimum, vb. değerleri) içeren bir tablo (Tablo \ref{tab:ozet}) olması zorunludur. Tablolarınıza gerekli göndermeleri bir önceki cümlede gösterildiği gibi yapınız. (\protect\hyperlink{ref-perkins:1991}{Perkins vd., 1991})
+
+Analize ait R kodları bu bölümde başlamalıdır. Bu bölümde veri setini R'a aktaran ve özet istatistikleri üreten kodlar yer almalıdır.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(tidyverse)}
+\FunctionTok{library}\NormalTok{(here)}
+\NormalTok{survey }\OtherTok{\textless{}{-}} \FunctionTok{read\_csv}\NormalTok{(}\FunctionTok{here}\NormalTok{(}\StringTok{"../data/Baseline\_characteristics\_Binding\_Antibody\_data\_anon.csv"}\NormalTok{))}
+\end{Highlighting}
+\end{Shaded}
+
+Rmd dosyasında kod bloklarının bazılarında kod seçeneklerinin düzenlendiğine dikkat edin.
+
+\texttt{echo=FALSE} seçeneği ile kodların türetilen pdf dosyasında görünmesini engelleyin ve sonuçlarınızı tablo halinde rapor edin.
+
+\begin{table}[ht]
+\centering
+\caption{Özet İstatistikler} 
+\label{tab:ozet}
+\begin{tabular}{lccccc}
+  \toprule
+ & Ortalama & Std.Sap & Min & Medyan & Mak \\ 
+  \midrule
+age & 48.82 & 13.32 & 18.19 & 48.91 & 84.27 \\ 
+  anti\_spikeiggbauml & 197.52 & 351.27 & 0.00 & 0.00 & 1389.00 \\ 
+  anti\_spikerbdigsaeu & 15890.83 & 64486.18 & 0.00 & 0.00 & 657482.19 \\ 
+  ct\_spike & 26.92 & 7.03 & 5.00 & 27.19 & 40.27 \\ 
+  data\_access\_group\_n & 1.13 & 0.33 & 1.00 & 1.00 & 2.00 \\ 
+  race\_n & 2.06 & 0.46 & 1.00 & 2.00 & 4.00 \\ 
+  study\_id\_n & 155.00 & 89.23 & 1.00 & 155.00 & 309.00 \\ 
+  time & 45.80 & 67.76 & 0.00 & 14.00 & 180.00 \\ 
+   \bottomrule
+\end{tabular}
+\end{table}
+
+\hypertarget{yuxf6ntem-ve-veri-analizi}{%
+\section{Yöntem ve Veri Analizi}\label{yuxf6ntem-ve-veri-analizi}}
+
+Bu bölümde veri setindeki bilgileri kullanarak çalışmanın amacına ulaşmak için kullanılacak yöntemleri açıklayın. Derste işlenen/işlenecek olan analiz yöntemlerinden (Hipotez testleri ve korelasyon analizi gibi) çalışmanın amacına ve veri setine uygun olanlar bu bölümde kullanılmalıdır. (\protect\hyperlink{ref-newbold:2003}{Newbold vd., 2003}; \protect\hyperlink{ref-ozsoy:2010}{Özsoy, 2010}, \protect\hyperlink{ref-ozsoy:2014}{2014})
+
+Örneğin, regresyon analizi gerçekleştiriyorsanız tahmin ettiğiniz denklemi bu bölümde tartışınız. Denklemlerinizi ve matematiksel ifadeleri \(LaTeX\) kullanarak yazınız.
+
+\[
+cat("$\\text{anti\\_spikeiggbauml} = \\beta_0 + \\beta_1 \\cdot \\text{age}$")
+\]
+
+\[
+Y_t = \beta_0 + \beta_N N_t + \beta_P P_t + \beta_I I_t + \varepsilon_t
+\]
+
+Bu bölümde analize ilişkin farklı tablolar ve grafiklere yer verilmelidir. Çalışmanıza uygun biçimde histogram, nokta grafiği (Şekil \ref{fig:plot} gibi), kutu grafiği, vb. grafikleri bu bölüme ekleyiniz. Şekillerinize de gerekli göndermeleri bir önceki cümlede gösterildiği gibi yapınız.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{survey }\SpecialCharTok{\%\textgreater{}\%} 
+  \FunctionTok{ggplot}\NormalTok{(}\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ age, }\AttributeTok{y =}\NormalTok{ anti\_spikeiggbauml)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_point}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{geom\_smooth}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{scale\_x\_continuous}\NormalTok{(}\StringTok{"age"}\NormalTok{) }\SpecialCharTok{+} 
+  \FunctionTok{scale\_y\_continuous}\NormalTok{(}\StringTok{"anti\_spikeiggbauml"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{figure}
+\includegraphics{final_files/figure-latex/plot-1} \caption{Covid-19}\label{fig:plot}
+\end{figure}
+
+\hypertarget{sonuuxe7}{%
+\section{Sonuç}\label{sonuuxe7}}
+
+Bu bölümde çalışmanızın sonuçlarını özetleyiniz. Sonuçlarınızın başlangıçta belirlediğiniz araştırma sorusuna ne derece cevap verdiğini ve ileride bu çalışmanın nasıl geliştirilebileceğini tartışınız.
+
+\textbf{Kaynakça bölümü Rmarkdown tarafından otomatik olarak oluşturulmaktadır. Taslak dosyada Kaynakça kısmında herhangi bir değişikliğe gerek yoktur.}
+
+\textbf{\emph{Taslakta bu cümleden sonra yer alan hiçbir şey silinmemelidir.}}
+
+\newpage
+
+\hypertarget{references}{%
+\section{Kaynakça}\label{references}}
+
+\hypertarget{refs}{}
+\begin{CSLReferences}{1}{0}
+\leavevmode\vadjust pre{\hypertarget{ref-aydinonat:2007}{}}%
+Aydınonat, N. E. (2007). İktisat Öğrencileri için Ödev Yazma Kılavuzu. \url{http://iktisat.cu.edu.tr/tr/Belgeler/Formlar/Bitirme\%20Projesi\%20Ödev\%20Hazırlama\%20Rehberi/N.\%20Emrah\%20AYDINONAT\%20(2006)\%20Ödev\%20Rehberi.pdf} adresinden erişildi.
+
+\leavevmode\vadjust pre{\hypertarget{ref-newbold:2003}{}}%
+Newbold, P., Carlson, W. L. ve Thorne, B. (2003). \emph{Statistics for Business and Economics}. Pearson College Division.
+
+\leavevmode\vadjust pre{\hypertarget{ref-ozsoy:2010}{}}%
+Özsoy, O. (2010). \emph{İktisat{ç}{ı}lar ve İ{ş}letmeciler İ{ç}in İstatistik, (3. Bask{ı})}. Ankara: Siyasal Kitabevi.
+
+\leavevmode\vadjust pre{\hypertarget{ref-ozsoy:2014}{}}%
+Özsoy, O. (2014). \emph{Soru ve Yanıtlarla İstatistik}. Ankara: Turhan Kitabevi.
+
+\leavevmode\vadjust pre{\hypertarget{ref-perkins:1991}{}}%
+Perkins, K. A., Sexton, J. E., Solberg-Kassel, R. D. ve Epstein, L. H. (1991). Effects of nicotine on perceived exertion during low-intensity activity. \emph{Medicine \& Science in Sports \& Exercise}.
+
+\end{CSLReferences}
+
+\end{document}

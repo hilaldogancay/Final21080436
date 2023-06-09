@@ -53,11 +53,10 @@ Bu taslak size proje ödevinizi yazarken yardımcı olması amacıyla oluşturul
 Proje ödevinizde yer alan başlıkların bu metinde yer alan başlıkları kesinlikle içermesi gerekmektedir. Burada kullanılan başlıklar haricinde farklı alt başlıklar da kullanabilirsiniz. Projenizi yazarken bu dosyayı taslak olarak kullanıp içeriğini projenize uyarlayınız.
 
 ## Çalışmanın Amacı
-Bu bölümde yaptığınız çalışmanın amacından ve öneminden birkaç paragraf ile bahsediniz.
+Araştırma, farklı derecelerde COVID-19 şiddetine sahip Kenyalı hastalarda doğal olarak indüklenen bağlanma ve nötralize edici anti-SARS-CoV-2 antikor seviyelerinin ve potansiyellerinin kinetiğini incelemeyi amaçlamaktadır. Bu bağlamda, hastalığın şiddeti ve yaş ile anti-SARS-CoV-2 antikor yanıtı arasında bir ilişki olup olmadığı ve bu antikorların virüsle etkileşim potansiyellerinin hastalık seyrine etkisi araştırılacaktır. Bu çalışmanın COVID-19 antikor yanıtının yaşla ve hastalığın şiddeti ile bir ilgisi varsa alınması gereken önlemlerde veya tedavi etme sürecine etkileri olabilir. Veri setimi Harvard Üniversitesi datalarından buldum.
 
 ## Literatür 
-
-Bu bölümde konu ile ilgili olarak okuduğunuz makaleleri referans vererek tartışınız. **Her makaleyi ayrı başlık altında tek tek özetlemeyiniz.** Literatür taramasında **en az altı** makaleye atıf yapılması ve bu makalelerden **en az ikisinin İngilizce** olması gerekmektedir.
+SARS-CoV-2 enfeksiyonu geçiren çocuklar ve yetişkinler arasındaki antikor yanıtlarının farklılıklarını araştırmaktadır. Çalışma, çocuk ve yetişkinlerin COVID-19 klinik spektrumunda yer alan farklı hastalık şiddeti ve semptomlarla ilişkili olarak nasıl farklı antikor tepkileri sergilediğini incelemektedir.Bu tür çalışmalar, farklı yaş grupları arasındaki immunolojik yanıtların anlaşılmasına ve özellikle çocukların COVID-19 enfeksiyonuyla başa çıkmalarındaki farklılıkların ortaya konmasına yardımcı olabilir. Araştırma sonuçları, hastalığın etiyolojisi, immünolojik mekanizmaları ve tedavi stratejileri hakkında daha fazla bilgi sağlayabilir.
 
 # Veri 
 Bu bölümde çalışmanızda kullandığınız veri setinin kaynağını, ham veri üzerinde herhangi bir işlem yaptıysanız bu işlemleri ve veri seti ile ilgili özet istatistikleri tartışınız. Bu bölümde tüm değişkenlere ait özet istatistikleri (ortalama, standart sapma, minimum, maksimum, vb. değerleri) içeren bir tablo (Tablo \ref{tab:ozet}) olması zorunludur. Tablolarınıza gerekli göndermeleri bir önceki cümlede gösterildiği gibi yapınız. [@perkins:1991]
@@ -67,14 +66,14 @@ Analize ait R kodları bu bölümde başlamalıdır. Bu bölümde veri setini R'
 ```{r}
 library(tidyverse)
 library(here)
-survey <- read_csv(here("../data/survey.csv"))
+survey <- read_csv(here("../data/Baseline_characteristics_Binding_Antibody_data_anon.csv"))
 ```
 
 Rmd dosyasında kod bloklarının bazılarında kod seçeneklerinin düzenlendiğine dikkat edin. 
 
 ```{r, echo=FALSE}
 library(xtable) 
-# devtools::install_github("emraher/summarytools")
+# devtools::install_github("hilaldogancay/summarytools")
 library(summarytools)
 st_options(lang = "tr")
 ```
@@ -83,13 +82,18 @@ st_options(lang = "tr")
 
 ```{r results='asis', echo=FALSE}
 survey %>%
-  select("sex", "credits", "handedness", "height", "handspan") %>% 
+  select("study_id_n","time","gender","age","severity","severity_1","anti_spikeiggbauml","anti_spikeiggpositivity","anti_spikerbdigsaeu","anti_spikerbdigsseropositivity","diabetes","hypertension","hiv_pos","copd","renal_disease","malignancy","hospital_admission","icu_care","ct_spike","outcome","data_access_group_n","race_n") %>% 
   descr(stats = c("mean", "sd", "min", "med", "max"), transpose = TRUE) %>% 
   xtable(caption = "Özet İstatistikler",
          label = "tab:ozet",
          align = c("l", "c", "c", "c", "c", "c")) %>% 
   print(booktabs = TRUE, comment = FALSE, caption.placement = "top")
 ```
+```{r}
+library(tidyverse)
+library(here)
+survey <- read_csv(here("../data/Baseline_characteristics_Binding_Antibody_data_anon.csv"))
+mydata <- read.csv("Baseline_characteristics_Binding_Antibody_data_anon.csv")
 
 
 # Yöntem ve Veri Analizi
@@ -97,20 +101,17 @@ Bu bölümde veri setindeki bilgileri kullanarak çalışmanın amacına ulaşma
 
 Örneğin, regresyon analizi gerçekleştiriyorsanız tahmin ettiğiniz denklemi bu bölümde tartışınız. Denklemlerinizi ve matematiksel ifadeleri $LaTeX$ kullanarak yazınız.
 
-$$
-Y_t = \beta_0 + \beta_N N_t + \beta_P P_t + \beta_I I_t + \varepsilon_t
-$$
 
 Bu bölümde analize ilişkin farklı tablolar ve grafiklere yer verilmelidir. Çalışmanıza uygun biçimde histogram, nokta grafiği (Şekil \@ref(fig:plot) gibi), kutu grafiği, vb. grafikleri bu bölüme ekleyiniz. Şekillerinize de gerekli göndermeleri bir önceki cümlede gösterildiği gibi yapınız.
 
 
-```{r plot, fig.align='center', fig.cap='Muhteşem Bir Grafik'}
+```{r plot, fig.align='Kenya', fig.cap='Covid-19'}
 survey %>% 
-  ggplot(aes(x = handedness, y = handspan)) +
+  ggplot(aes(x = age, y = anti_spikeiggbauml)) +
   geom_point() +
   geom_smooth() +
-  scale_x_continuous("Handedness") + 
-  scale_y_continuous("Handspan")
+  scale_x_continuous("age") + 
+  scale_y_continuous("anti_spikeiggbauml")
 ```
 
 
@@ -124,4 +125,6 @@ Bu bölümde çalışmanızın sonuçlarını özetleyiniz. Sonuçlarınızın b
 \newpage
 # Kaynakça {#references}
 <div id="refs"></div>
+
+
 
