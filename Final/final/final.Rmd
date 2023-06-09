@@ -1,5 +1,5 @@
 ---
-title: "Çalışmanızın Başlığı"
+title: "COVID-19 ANTIKORU"
 author: 
   - Hilal DOĞANÇAY[^1]
 bibliography: ../bibliography/biblio.bib
@@ -34,7 +34,7 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== NOTLAR ================================= -->
 <!-- ======================================================================= -->
-[^1]: Öğrenci Numarası, [Github Repo](https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ)
+[^1]: 21080436, [Github Repo](https://github.com/hilaldogancay/Final21080436)
 
 # Final Hakkında Önemli Bilgiler
 
@@ -56,7 +56,7 @@ Proje ödevinizde yer alan başlıkların bu metinde yer alan başlıkları kesi
 Araştırma, farklı derecelerde COVID-19 şiddetine sahip Kenyalı hastalarda doğal olarak indüklenen bağlanma ve nötralize edici anti-SARS-CoV-2 antikor seviyelerinin ve potansiyellerinin kinetiğini incelemeyi amaçlamaktadır. Bu bağlamda, hastalığın şiddeti ve yaş ile anti-SARS-CoV-2 antikor yanıtı arasında bir ilişki olup olmadığı ve bu antikorların virüsle etkileşim potansiyellerinin hastalık seyrine etkisi araştırılacaktır. Bu çalışmanın COVID-19 antikor yanıtının yaşla ve hastalığın şiddeti ile bir ilgisi varsa alınması gereken önlemlerde veya tedavi etme sürecine etkileri olabilir. Veri setimi Harvard Üniversitesi datalarından buldum.
 
 ## Literatür 
-[@weisberg2021distinct]SARS-CoV-2 enfeksiyonu geçiren çocuklar ve yetişkinler arasındaki antikor yanıtlarının farklılıklarını araştırmaktadır. Çalışma, çocuk ve yetişkinlerin COVID-19 klinik spektrumunda yer alan farklı hastalık şiddeti ve semptomlarla ilişkili olarak nasıl farklı antikor tepkileri sergilediğini incelemektedir.Bu tür çalışmalar, farklı yaş grupları arasındaki immunolojik yanıtların anlaşılmasına ve özellikle çocukların COVID-19 enfeksiyonuyla başa çıkmalarındaki farklılıkların ortaya konmasına yardımcı olabilir. Araştırma sonuçları, hastalığın etiyolojisi, immünolojik mekanizmaları ve tedavi stratejileri hakkında daha fazla bilgi sağlayabilir.[@smith1937wealth] Bu başlık altında sunulan çalışma, COVID-19 geçiren Kenyalı hastalar arasında antikor yanıtlarının zaman içindeki değişimini ve farklı hastalık derecelerine sahip hastalar arasındaki farkları araştırmaktadır. Çalışma, doğal olarak oluşan antikorların, SARS-CoV-2'ye bağlanma yeteneği ve nötralize etme kapasitesi açısından nasıl değiştiğini ve farklı hastalık şiddetleriyle ilişkili olarak nasıl farklılık gösterdiğini inceler.Bu tür çalışmalar, COVID-19'un immünolojik yanıtlarını anlamak ve hastalığın seyri, prognozu ve tedavisiyle ilgili daha fazla bilgi sağlamak için önemlidir. Araştırma sonuçları, antikor yanıtlarının hastalığın seyrindeki rolünü, hastalık şiddeti tahmininde ve potansiyel olarak aşı geliştirme çalışmalarında değerli bir bilgi kaynağı olarak kullanılabilir.    Çalışmada ikinci numunelerde dahi antikor düzeyi negatif ve kısmen düşük cut off değerlerdeki numuneler bulunmaktadır. Bu çalışma gerek antikor düzeylerinin varlığı ve takibi gerekse plazmaferezlerde donör antikor düzeyinin saptanması açısından önem taşımaktadır.[@dicletip887689]    COVID-19 geçiren hastalarda büyük oranda nötrolizan antikorların oluştuğu ve 6 ay boyunca devamlılık gösterdiği bulundu. Hastalığı semptomatik geçirenler ve daha şiddetli geçirenlerde antikor düzeyleri daha yüksek bulundu.[@keskin2022covid] COVID-19 tanılı hastalarda SARS-CoV-2’ye karşı antikor yanıtlarının karakterize edilmesive tanımlanması, salgının dinamiklerinin anlaşılması ve daha etkin mücadele stratejilerinin geliştirmesi için kritik önem taşımaktadır.[@gurel2022covid] SARSCoV-2’ye karşı humoral immün yanıtlara ilişkin bazı belirsizlikler mevcuttur. Bunlardan ilki SARS-CoV-2 enfeksiyonuna karşı oluşan B hücre bellek yanıtlarının süresi ile ilgilidir. Bir virüse yönelik uygun B hücre yanıtlarının, reenfeksiyonlara karşı koruyucu olması beklenir. Buna karşın mevcut veriler, COVID-19 enfeksiyonu sonrası antikor aracılı bağışıklığın, reenfeksiyona karşı koruyucu etkinliğinin sınırlı olduğuna işaret etmektedir.[@deneyler2020covid]
+[@weisberg2021distinct] SARS-CoV-2 enfeksiyonu geçiren çocuklar ve yetişkinler arasındaki antikor yanıtlarının farklılıklarını araştırmaktadır. Çalışma, çocuk ve yetişkinlerin COVID-19 klinik spektrumunda yer alan farklı hastalık şiddeti ve semptomlarla ilişkili olarak nasıl farklı antikor tepkileri sergilediğini incelemektedir.Bu tür çalışmalar, farklı yaş grupları arasındaki immunolojik yanıtların anlaşılmasına ve özellikle çocukların COVID-19 enfeksiyonuyla başa çıkmalarındaki farklılıkların ortaya konmasına yardımcı olabilir. Araştırma sonuçları, hastalığın etiyolojisi, immünolojik mekanizmaları ve tedavi stratejileri hakkında daha fazla bilgi sağlayabilir.[@smith1937wealth] Bu başlık altında sunulan çalışma, COVID-19 geçiren Kenyalı hastalar arasında antikor yanıtlarının zaman içindeki değişimini ve farklı hastalık derecelerine sahip hastalar arasındaki farkları araştırmaktadır. Çalışma, doğal olarak oluşan antikorların, SARS-CoV-2'ye bağlanma yeteneği ve nötralize etme kapasitesi açısından nasıl değiştiğini ve farklı hastalık şiddetleriyle ilişkili olarak nasıl farklılık gösterdiğini inceler.Bu tür çalışmalar, COVID-19'un immünolojik yanıtlarını anlamak ve hastalığın seyri, prognozu ve tedavisiyle ilgili daha fazla bilgi sağlamak için önemlidir. Araştırma sonuçları, antikor yanıtlarının hastalığın seyrindeki rolünü, hastalık şiddeti tahmininde ve potansiyel olarak aşı geliştirme çalışmalarında değerli bir bilgi kaynağı olarak kullanılabilir.    Çalışmada ikinci numunelerde dahi antikor düzeyi negatif ve kısmen düşük cut off değerlerdeki numuneler bulunmaktadır. Bu çalışma gerek antikor düzeylerinin varlığı ve takibi gerekse plazmaferezlerde donör antikor düzeyinin saptanması açısından önem taşımaktadır.[@dicletip887689]    COVID-19 geçiren hastalarda büyük oranda nötrolizan antikorların oluştuğu ve 6 ay boyunca devamlılık gösterdiği bulundu. Hastalığı semptomatik geçirenler ve daha şiddetli geçirenlerde antikor düzeyleri daha yüksek bulundu.[@keskin2022covid] COVID-19 tanılı hastalarda SARS-CoV-2’ye karşı antikor yanıtlarının karakterize edilmesive tanımlanması, salgının dinamiklerinin anlaşılması ve daha etkin mücadele stratejilerinin geliştirmesi için kritik önem taşımaktadır.[@gurel2022covid] SARSCoV-2’ye karşı humoral immün yanıtlara ilişkin bazı belirsizlikler mevcuttur. Bunlardan ilki SARS-CoV-2 enfeksiyonuna karşı oluşan B hücre bellek yanıtlarının süresi ile ilgilidir. Bir virüse yönelik uygun B hücre yanıtlarının, reenfeksiyonlara karşı koruyucu olması beklenir. Buna karşın mevcut veriler, COVID-19 enfeksiyonu sonrası antikor aracılı bağışıklığın, reenfeksiyona karşı koruyucu etkinliğinin sınırlı olduğuna işaret etmektedir.[@deneyler2020covid]
 
 # Veri 
 Bu bölümde çalışmanızda kullandığınız veri setinin kaynağını, ham veri üzerinde herhangi bir işlem yaptıysanız bu işlemleri ve veri seti ile ilgili özet istatistikleri tartışınız. Bu bölümde tüm değişkenlere ait özet istatistikleri (ortalama, standart sapma, minimum, maksimum, vb. değerleri) içeren bir tablo (Tablo \ref{tab:ozet}) olması zorunludur. Tablolarınıza gerekli göndermeleri bir önceki cümlede gösterildiği gibi yapınız. [@perkins:1991]
@@ -92,8 +92,8 @@ survey %>%
 ```{r}
 library(tidyverse)
 library(here)
-survey <- read_csv(here("../data/Baseline_characteristics_Binding_Antibody_data_anon.csv"))
-mydata <- read.csv("Baseline_characteristics_Binding_Antibody_data_anon.csv")
+survey <- read.csv(here("../data/Baseline_characteristics_Binding_Antibody_data_anon.csv"))
+mydata <- read_csv("Baseline_characteristics_Binding_Antibody_data_anon.csv")
 
 
 # Yöntem ve Veri Analizi
@@ -165,7 +165,7 @@ A
 res <- boxplot(spike~time,data = Ig)
 
 
-```{r plot, fig.align='plot', fig.cap='Covid-19'}
+```{r}
 survey %>% 
   ggplot(aes(x = age, y = anti_spikeiggbauml)) +
   geom_point() +
