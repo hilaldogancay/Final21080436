@@ -65,7 +65,7 @@ knitr::opts_chunk$set(echo = TRUE)
 | [Eurostat](https://ec.europa.eu/eurostat)                                                          | [OpenIntro datasets](http://openintrostat.github.io/openintro/)                              | [USDA ARMS](https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Ag_Resource_Management/) |
 | [FAO](http://www.fao.org/faostat/en/#home)                                                         | [Penn World Tables](https://www.rug.nl/ggdc/productivity/pwt/)                               | [USDA NASS](https://www.nass.usda.gov/Data_and_Statistics/)                                  |
 | [FRED](https://fred.stlouisfed.org/)                                                               | [PRISM Data Archive Project](https://www.icpsr.umich.edu/icpsrweb/content/ICPSR/fenway.html) | [World Bank](https://data.worldbank.org/)                                                    |
-| [Harvard Dataverse](https://dataverse.harvard.edu/)                                                | [SBB](http://www.sbb.gov.tr/ekonomik-veriler/)                                               | [WTO](https://data.wto.org/)                                                                 |
+| [Harvard Dataverse](https://dataverse.harvard.edu/)                                                | [SBB]/)(http://www.sbb.gov.tr/ekonomik-veriler)                                               | [WTO](https://data.wto.org/)                                                                 |
 | [ILO](https://ilostat.ilo.org/)                                                                    | [TCMB EVDS](https://evds2.tcmb.gov.tr/)                                                      |                                                                                              |
 | [IMF](https://data.imf.org/?sk=388DFA60-1D26-4ADE-B505-A05A558D9A42&sId=1479329132316)             | [thelittledataset.com](https://thelittledataset.com/data_code/)                              |                                                                                              |
 | [IPUMS](https://ipums.org/)                                                                        | [TidyTuesday](https://github.com/rfordatascience/tidytuesday)                                |                                                                                              |
@@ -187,9 +187,7 @@ Proje reponuzda aşağıdaki klasörler ve dosyalar olmalıdır:
 
 Bu projede stil ve biçim önemli olduğundan, lütfen her şeyin iyi göründüğünden, verilerinizin ve kodunuzun doğru biçimlendirildiğinden emin olunuz.
 
-````{r}
-library(tidyverse)
-my_data <- read.csv("excel-1-final.csv")
+
 
 
 
